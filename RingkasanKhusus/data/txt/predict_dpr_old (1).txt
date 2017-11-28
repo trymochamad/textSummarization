@@ -1,0 +1,1731 @@
+0 risalah resmi  Other
+1 rapat paripurna ke    23  dua puluh tiga   Other
+2 masa persidangan   iii  Other
+3 tahun sidang   2011     2012  Other
+4 s i  f  a  t   terbuka  Other
+5 hari   tanggal   selasa  3 april 2012  Other
+6 waktu    pukul 10 35 wib s d  12 25 wib  Other
+7 t e m p a t   ruang rapat paripurna gedung nusantara ii  Other
+8 jl  jend  gatot subroto     jakarta  Other
+9 ketua rapat     Statement
+10 drs  h  priyo budi santoso   Other
+11  wakil ketua dpr ri korpolkam   Other
+12 sekretaris rapat   dra  nining indra shaleh  m si    Other
+13  sekjen dpr ri   Other
+14 didampingi   Other
+15 1  k  johnson rajagukguk  s h   m hum   Other
+16         deputi bidang perundang undangan   Statement
+17 2  drs  bambang susetio nugroho   m ap   Other
+18         kepala biro persidangan   Other
+19 a c a r a   1  penyampaian ikhtisar hasil pemeriksaan bpk ri  Statement
+20 semester ii tahun 2011 dan penyerahan laporan hasil  Other
+21 pemeriksaan   Statement
+22 2  pembicaraan tingkat ii pengambilan keputusan  Other
+23 terhadap ruu tentang pendidikan tinggi   Other
+24 3  pembicaraan tingkat ii pengambilan keputusan  Other
+25 terhadap ruu tentang penanganan konflik sosial    Statement
+26 h  a  d  i  r   a  anggota dpr ri   Other
+27      470 dari 560 orang anggota dengan rincian   Other
+28 1  fraksi  partai  demokrat  Other
+29       131 dari 148 orang anggota   Other
+30 2  fraksi partai golkar  Other
+31       90 dari 106 orang anggota   Other
+32 3  fraksi pdi perjuangan  Other
+33       79 dari 94 orang anggota   Other
+34 4  fraksi partai keadilan sejahtera  Other
+35       45 dari 57 orang anggota   Other
+36 5  fraksi partai amanat nasional  Other
+37       37 dari 46 orang anggota   Other
+38 6  fraksi partai persatuan pembangunan  Other
+39       34 dari 38 orang anggota   Other
+40 7  fraksi partai kebangkitan bangsa  Suggestion
+41       20 dari 28 orang anggota   Other
+42 8  fraksi partai gerakan indonesia raya  Suggestion
+43       21 dari 26 orang anggota  Other
+44 9  fraksi partai hati nurani rakyat  Suggestion
+45       13 dari 17 orang anggota  Other
+46 b  pemerintah  Other
+47 1  menteri pendayagunaan aparatur negara  Other
+48 2  dirjen kementerian dalam negeri  Other
+49 3  dirjen kementerian sosial  Other
+50 4  ketua bpk ri  Other
+51 daftar hadir anggota dpr ri  Other
+52 pada rapat paripurna tanggal 3 april 2012  Other
+53 1  fraksi partai demokrat   Other
+54 no nama no  anggota  Other
+55 1    h m  ali yacob  415  Statement
+56 2    ir  h  muhammad azhari s h   m h   417  Other
+57 3    teuku irwan  418  Other
+58 4    muslim  419  Other
+59 5    h  abdul wahab dalimunthe  s h   420  Suggestion
+60 6    drs  ir  h  sutan bhatoegana  m m   421  Other
+61 7    sri novida  s e   422  Other
+62 8    kol  purn  drs  jafar nainggolan  m m   423  Other
+63 9    drh  jhoni allen marbun  m m   424  Other
+64 10    jonny buyung saragi  426  Other
+65 11    ruhut poltak sitompul  s h   427  Opinion
+66 12    edi ramli sitanggang  s h   428  Other
+67 13    imran muchtar  429  Other
+68 14    h  dasrul djabar  430  Other
+69 15    darizal basir  431  Other
+70 16    dr  zulmiar yanri  ph d  sp  ok  432  Other
+71 17    ir  h  mulyadi  434  Statement
+72 18    muhamad nasir  436  Other
+73 19    hj  nany sulistyani herawati  437  Opinion
+74 20    syofwatillah mohzaib  s sos  438  Opinion
+75 21    prof  dr  h  mahyuddin ns  sp og  k   439  Opinion
+76 22    juhaini alie  s h   m m   440  Other
+77 23    h  paiman  441  Other
+78 24    dr  dian a  syakhroza  442  Other
+79 25    h  zulkifli anwar 443  Statement
+80 26    h  heriyanto  s e   m m   444  Statement
+81 27    usmawarnie peter  446  Other
+82 28    dr  indrawati sukadis  447  Statement
+83 29    h  tri yulianto  s h   449  Statement
+84 30    h  hayono isman  s i p  450  Statement
+85 31    hj  melani leimena suharli  451  Statement
+86 32    dr  nova riyanti yusuf  452  Statement
+87 33    nurcahyo anggorojati  453  Other
+88 34    dr  h  marzuki alie 454  Statement
+89 35    drs  eddy sadeli  s h   455  Other
+90 36    hj  vera febyanthy  456  Statement
+91 37    hj  iti octavia jayabaya  s e   m m   457  Statement
+92 38    dra  hj  ratu siti romlah  m ag  458  Other
+93 39    adiyaman amir saputra  s i p   459  Other
+94 40    hartanto edhie wibowo  460  Other
+95 41    hj  himmatul alyah setiawaty  s h   m h   461  Other
+96 42    ferrari romawi  462  Other
+97 43    agung budi santoso  s h   463  Other
+98 44    h  daday hudaya  s h   m h   464  Statement
+99 45    yetti heryati  465  Other
+100 46    ir  h  roestanto wahidi d  m m   467  Other
+101 47    theresia e e pardede  468  Statement
+102 48    drs  supomo 469  Statement
+103 49    sri hidayati  470  Other
+104 50    prof  dr  adinajani h  mohdi  sppd kai  s h   471  Other
+105 51    pasha ismaya sukardi  472  Other
+106 52    ingrid maria palupi kansil  s sos   473  Other
+107 53    anton sukartono suratto  475  Other
+108 54    h  m  syaiful anwar  476  Other
+109 55    drs  parlindungan hutabarat  477  Other
+110 56    h  harry witjaksono  s h   478  Other
+111 57    ir  h  hari kartana  m m   479  Statement
+112 58    saan mustofa  480  Other
+113 59    dhiana anwar  s h   481  Other
+114 60    nurul qomar  482  Other
+115 61    ir  e  herman khaeron  m si   483  Other
+116 62    h  yusyus kuswandana  s h   484  Other
+117 63    linda megawati  s e   485  Other
+118 64    didi irawadi syamsudin  s h   ll m   486  Other
+119 65    h  amin santono  s sos   487  Other
+120 66    mayjen tni  purn  yahya sacawiria  s i p   m m   488  Other
+121 67    h  nurul imam mustofa  m a   489  Other
+122 68    siti mufattahah  p si   490  Other
+123 69    ir  agus hermanto  m m   491  Other
+124 70    ir  muhammad baghowi  m m   492  Other
+125 71    h  subyakto  s h   m h   493  Other
+126 72    ir  djoko udjianto  494  Other
+127 73    ignatius mulyono  495  Other
+128 74    rinto subekti  s e   m m   496  Statement
+129 75    dra  gray koes moertiyah  m pd   497  Statement
+130 76    angelina sondakh  s e   498  Statement
+131 77    ir  hm  rosyid hidayat  499  Other
+132 78    sudewa  s t   m t   500  Statement
+133 79    fardan fauzan  b a   m sc   501  Statement
+134 80    khatibul umam wiranu  m hum   502  Statement
+135 81    ir  idris sugeng  m sc   503  Other
+136 82    ir  sutarip tulis widodo  504  Other
+137 83    kmrt  roy suryo notodiprojo  505  Other
+138 84    agus bastian  s e   m m   506  Other
+139 85    h  gondo radityo gambiro  507  Other
+140 86    dra  lucy kurniasari  508  Other
+141 87    k h  yunus roichan  s h   m hi  510  Other
+142 88    h  sholeh soe aidy  s h   512  Other
+143 89    hj  siti romlah 513  Other
+144 90    dr  subagyo partodiharjo  514  Other
+145 91    dr  nurhayati ali aseggaf  m si   515  Other
+146 92    dr  pieter c zulkifli simabuea  m h   516  Other
+147 93    maimara tando  517  Other
+148 94    edhie baskoro yudhoyono  m sc   519  Other
+149 95    drs  ramadhan pohan  m i s   520  Other
+150 96    rusminiati  s h   521  Other
+151 97    k h  ahmad mustain syafi ie  m ag  522  Other
+152 98    drs  h  guntur sasono  m si   523  Other
+153 99    ida ria s   s e   a k   524  Other
+154 100   drs  h  mahrus munir  525  Other
+155 101   drs  h  acmad syafi i  m si   526  Other
+156 102   achsanul qosasi  527  Other
+157 103   gede pasek suardika  s h  528  Other
+158 104   drs  i wayan sugiana  m m   529  Other
+159 105   albert yaputra  s sos   530  Other
+160 106   lim sui khiang  531  Other
+161 107   didik salmijardi  532  Other
+162 108   drs  h  taufiq effendi  533  Other
+163 109   ir  h  asfihani  534  Other
+164 110   drs  h  yusran aspar  m si   535  Other
+165 111   hj  adji farida padmo ardan  536  Other
+166 112   ir  nanang samodra ka  m sc   537  Other
+167 113   i wayan gunastra  538  Other
+168 114   dr  abdurrahman abdullah  539  Other
+169 115   dr  benny kabur harman  s h   540  Other
+170 116   anita jacoba gah  s e   541  Other
+171 117   sonny waplau  544  Other
+172 118   kasma bouty  s e   m m   545  Other
+173 119   dr  ahmad nizar shihab  sp an   547  Other
+174 120   dr  ir  mohammad jafar hafsah  548  Other
+175 121   drs  h  abdul gafar patappe  549  Other
+176 122   ir  hj  a p a  timo pangerang  551  Other
+177 123   andi rachmat  s e   552  Other
+178 124   drs  umar arsal  553  Other
+179 125   dr  verna gladies merry inkiriwang 554  Other
+180 126   paula sinjal  s h   555  Other
+181 127   mayjen tni  purn  salim mengga  556  Other
+182 128   etha bulo 557  Other
+183 129   diaz gwijangge 558  Other
+184 130   ir  s  milton pakpahan  m m 559  Other
+185 131   michael wattimena  s e   m m  560  Other
+186 jumlah kehadiran dari fraksi partai demokrat 131 dari 148 orang anggota   Other
+187 2  fraksi partai golongan karya   Other
+188 no nama no  anggota  Other
+189 1    h  sayed fuad zakaria  s e   175  Other
+190 2    drs  h  marzuki daud 176  Other
+191 3    ir  ali wongso halomoan sinaga  180  Other
+192 4    dr  h m  azwir dainy tara  m b a   183  Other
+193 5    h  nudirman munir  s h   184  Other
+194 6    ir  h  arsyad juliandi rachman  m b a   185  Statement
+195 7    ir  h m  idris laena  186  Statement
+196 8    hj  nurliah  s h   m h  187  Other
+197 9    adi sukemi  s t   m m  188  Other
+198 10    dodi reza alex noerdin  lic econ  m b a   190  Other
+199 11    drs  kahar muzakir  191  Other
+200 12    bobby adhityo rizaldi  s e   m b a   c f e   193  Other
+201 13    ir  rully chairul azwar  m si   195  Other
+202 14    dra  tri hanurita  m a   m m   196  Other
+203 15    dr  azis syamsuddin  197  Opinion
+204 16    drs  h  riswan tony dk  198  Opinion
+205 17    selina gita  s e   199  Other
+206 18    ir  fayakhun andriadi  m kom  200  Other
+207 19    drs  h m  ade surapriatna  s h   b sc   201  Other
+208 20    h  mamat rahayu abdullah  202  Other
+209 21    drs  h  hikmat tomet  203  Other
+210 22    drs  h  humaedi 204  Other
+211 23    ahmed zaki iskandar zulkarnain  b bus   205  Other
+212 24    dra  popong otje djundjunan  206  Other
+213 25    dr  ir  h  lili asdjudiredja  s e   ph d   208  Statement
+214 26    dr  h  deding ishak  s h   m m   209  Other
+215 27    hj  dewi asmara  s h   210  Other
+216 28    drs  h  a  muchamad ruslan  211  Other
+217 29    ir  h  airlangga hartarto  m m t   m b a   212  Other
+218 30    drs  h  zulkarnaen djabar  213  Other
+219 31    nurul arifin  s i p   m si   214  Other
+220 32    drs  ade komarudin  m h   215  Other
+221 33    drs  enggartiasto lukita  216  Other
+222 34    hj  tetty kadi bawono  217  Other
+223 35    drs  h  eldie suwandie  218  Other
+224 36    drs  agun gunanjar sudarsa  219  Other
+225 37    ferdiansyah  s e   m m   220  Other
+226 38    dr   hc  ir  h  siswono yudo husodo  221  Statement
+227 39    h  m  busro  223  Other
+228 40    firman soebagyo  s e   224  Other
+229 41    ir  h  eko sarjono putro  m m   226  Statement
+230 42    ir  bambang sutrisno  227  Statement
+231 43    h  bambang soesatyo  s e   m b a   228  Opinion
+232 44    h  dito ganinduto  m b a   229  Other
+233 45    h  m  nasrudin  s h   230  Other
+234 46    budi supriyanto  s h   m h   231  Other
+235 47    gandung pardiman  232  Other
+236 48    drs  h  priyo budi santoso  233  Request
+237 49    dra  hj  harbiah salahuddin  m si   234  Other
+238 50    h  hardisoesilo   235  Other
+239 51    drs  taufiq hidayat  m si   236  Request
+240 52    hj  endang agustini syarwan h   s i p   237  Other
+241 53    zainudin amali  s e   238  Other
+242 54    dr  h m  markum singodimejo 239  Statement
+243 55    hayani isman  240  Other
+244 56    s w  yudha  m sc   241  Statement
+245 57    dra  hj  hernani hurustiati  242  Statement
+246 58    ir  h  eddy kuntadi  243  Request
+247 59    i gusti ketut adhiputra  s h   245  Other
+248 60    ir  h  zulfadhli  246  Request
+249 61    drs  kamaruddin sjam  m m   247  Other
+250 62    dra  hj  chairun nisa  m a   248  Other
+251 63    ir  h  ahmadi noor supit  249  Other
+252 64    h  gusti iskandar s a   s e   250  Other
+253 65    mahyudin  s t   m m   251  Other
+254 66    dr  ir  hetifah  mpp   252  Other
+255 67    adi putra darmawan tahir  253  Other
+256 68    muhammad lutfi  254  Other
+257 69    drs  josef a  nae soi  m m   255  Suggestion
+258 70    melchias marcus mekeng  256  Other
+259 71    drs  setya novanto  257  Suggestion
+260 72    dr  charles j mesang  258  Other
+261 73    hj  nurokhmah ahmad hidayat mus  259  Other
+262 74    edison betaubun  s h   m h   260  Other
+263 75    drs  h  roem kono  261  Suggestion
+264 76    emil abeng  262  Other
+265 77    dra  hj  oelfah a  syahrullah harmanto  263  Suggestion
+266 78    andi rio idris padjalangi  s h   m kn   265  Suggestion
+267 79    h  syamsul bachri s   m sc   266  Suggestion
+268 80    dr  hj  mariani akib baramuli  m m   268  Suggestion
+269 81    ir  markus nari  m si   269  Statement
+270 82    muhammad oheo sinapoy  s e   m b a   270  Other
+271 83    h  muhidin mohamad said  271  Other
+272 84    drs  h  murad u  nasir  m si   272  Statement
+273 85    aditya anugrah moha  s ked   273  Other
+274 86    ir  a  edwin kawilarang  274  Statement
+275 87    drs  h  ibnu munzir  275  Statement
+276 88    yorrys raweyai  277  Other
+277 89    irene manibuy  s h  279  Other
+278 90    robert joppy kardinal 280  Other
+279 jumlah kehadiran dari partai golkar 90 dari 106 orang anggota   Other
+280 3  fraksi partai demokrasi indonesia perjuangan   Other
+281 no nama no  anggota  Other
+282 1    trimedya panjaitan  s h   m h   320  Other
+283 2    dr  yassonna h  laoly  s h   m sc   321  Other
+284 3    h  tri tamtomo  s h   322  Other
+285 4    ian siagian  323  Other
+286 5    ir  nazarudin kiemas  m m   324  Suggestion
+287 6    dr  surya chandra surapaty  m p h   p h d   325  Other
+288 7    ir  rudianto tjen  327  Suggestion
+289 8    sudin  328  Other
+290 9    ir  isma yatun  329  Suggestion
+291 10    itet tridjajati sumarijanto  m b a  330  Other
+292 11    h  irsal yunus  s e   m m   331  Other
+293 12    r  adang ruchiatna puradiredja  332  Other
+294 13    ir  eriko sotarduga b p s   333  Other
+295 14    drs  effendi m s  simbolon  334  Other
+296 15    tb  dedi s  gumelar  335  Other
+297 16    ichsan sulistiyo  336  Other
+298 17    irvansyah  s i p    337  Other
+299 18    ir  ketut sustiawan 338  Other
+300 19    dr  ir  arif budimanta  m sc   341  Suggestion
+301 20    dr  ribka tjiptaning  342  Statement
+302 21    drs  helmi fauzy  343  Suggestion
+303 22    sukur h  nababan  s t   344  Other
+304 23    ir  daniel lumban tobing  346  Suggestion
+305 24    drs  sidarto danusubroto  s h   347  Suggestion
+306 25    drs  yoseph umar hadi  m si   348  Suggestion
+307 26    maruarar sirait  s ip   349  Other
+308 27    tb  hasanuddin  s e   m m   350  Other
+309 28    puti guntur soekarno  s i p  351  Other
+310 29    drs  m  nurdin  m m   352  Suggestion
+311 30    tjahjo kumolo  s h   354  Other
+312 31    ir  h  daryatmo mardiyanto  355  Suggestion
+313 32    drs  h  imam suroso  m m   356  Suggestion
+314 33    evita nursanty  357  Other
+315 34    mangara m  siahaan  359  Other
+316 35    puan maharani  360  Other
+317 36    nusyirwan soejono  s t   361  Other
+318 37    aria bima  362  Other
+319 38    ir  sudjadi  363  Other
+320 39    ina ammania  364  Other
+321 40    ganjar pranowo  365  Other
+322 41    drs  utut adianto  366  Suggestion
+323 42    budiman sudjatmiko  m sc   m phil   367  Other
+324 43    adisatrya suryo sulisto  368  Other
+325 44    dr  muhammad prakosa  369  Other
+326 45    drs  h  sumaryoto  371  Other
+327 46    prof  dr  hendrawan supratikno  372  Other
+328 47    h  djuwarto  373  Other
+329 48    dra  eddy mihati  m si   374  Other
+330 49    m  guruh irianto sukarno putra  375  Other
+331 50    hj  rukmini buchori  377  Other
+332 51    achmad basarah  378  Other
+333 52    nursuhud  379  Other
+334 53    ir  h  dadoes soemarwanto  m arch   381  Other
+335 54    dra  sri rahayu  382  Other
+336 55    sayed muhammad muliady  s h   383  Other
+337 56    ir  theodorus jakob koekerits  385  Other
+338 57    dra  eva kusuma sundari  m a   m d e   386  Other
+339 58    ir  heri akhmadi  387  Other
+340 59    hj  sadarestuwati  s p   m ma   388  Request
+341 60    ir  mindo sianipar  389  Other
+342 61    zainun ahmadi  391  Other
+343 62    mh  said abdullah  392  Request
+344 63    dr  ir  wayan koster  m m   393  Other
+345 64    nyoman dhamantra  395  Other
+346 65    i gusti agung rai wirajaya  s e   m m   396  Other
+347 66    dr  karolin margret natasa  397  Other
+348 67    lasarus  s sos   398  Other
+349 68    ir  dolfie ofp  399  Statement
+350 69    asdy narang  s h   m comm law   400  Other
+351 70    sugianto  401  Other
+352 71    h  bahrudin syarkawie  402  Other
+353 72    ir  h  izedrik emir moeis  m sc   403  Statement
+354 73    honing sanny  405  Other
+355 74    herman hery  406  Other
+356 75    hayu r  anggara shelomita  407  Other
+357 76    alexander litaay  408  Other
+358 77    ir  rendy m  affandy lamadjido  m b a   409  Other
+359 78    vanda sarundajang  411  Other
+360 79    manuel kaisiepo 412  Other
+361 jumlah kehadiran fraksi pdi p 79 dari 94 orang anggota   Statement
+362 4  fraksi partai keadilan sejahtera   Statement
+363 no nama no  anggota  Other
+364 1    h  raihan iskandar  lc   45  Other
+365 2    iskan qolba lubis  m a   47  Other
+366 3    ansory siregar  48  Other
+367 4    hermanto  s e   m m   49  Statement
+368 5    refrizal  50  Other
+369 6    drs  chairul anwar  apt   51  Suggestion
+370 7    hj  herlini amran  m a   52  Statement
+371 8    mustafa kamal  s s  53  Other
+372 9    k h  bukhori  lc   m a   54  Other
+373 10    drs  h  mohammad syahfan b  sampurno  55  Opinion
+374 11    drs  al muzzammil yusuf  56  Opinion
+375 12    k h  ir  abdul hakim  m m   57  Opinion
+376 13    dr  mohamad sohibul iman  59  Other
+377 14    drs  h  adang daradjatun  60  Opinion
+378 15    achmad rilyadi   s e   61  Other
+379 16    dr  zulkieflimansyah  s e   m sc   62  Other
+380 17    indra  s h   64  Other
+381 18    hj  ledia hanifa amaliah  s si   m psi t   66  Other
+382 19    h  ma   mur hasanuddin  m a   67  Other
+383 20    h  ecky awal mucharam  s e   68  Other
+384 21    ir  h  yudi widiana adia  m si   69  Statement
+385 22    h  tb  soenmandjaja  s d   70  Other
+386 23    mahfudz abdurrahman  71  Other
+387 24    dr  h  mardani  m eng   72  Other
+388 25    drs  mahfudz siddiq  m si   73  Statement
+389 26    nurhasan zaidi  s sos  i   74  Other
+390 27    k h  dr  surahman hidayat  m a   75  Other
+391 28    h  zuber safawi  s hi   77  Other
+392 29    hm gamari  78  Other
+393 30    drs  m  martri agoeng  79  Statement
+394 31    dr  hidayat nur wahid  80  Other
+395 32    ir  h  sugihono karyosuwondo  81  Statement
+396 33    tossy aryanto  s e   m mh   82  Other
+397 34    rohmani  s pd  83  Other
+398 35    agoes poernomo  s i p   84  Other
+399 36    ir  h  sigit sosiantomo  85  Other
+400 37    dr  muhammad firdaus  m a   86  Other
+401 38    h  rofi  munawar  lc   88  Other
+402 39    ir  memed sosiawan  89  Other
+403 40    ir  abdul azis suseno  m t   90  Other
+404 41    rahman amin  91  Other
+405 42    hb  ir  nabiel al musawa  m si   93  Other
+406 43    aus hidayat nur 94  Statement
+407 44    fahri hamzah  s e   95  Statement
+408 45    h  yan herizal  s e   99  Other
+409 jumlah kehadiran dari fraksi pks 45 dari 57 orang anggota   Other
+410 5  fraksi partai amanat nasional   Other
+411 no nama no  anggota  Other
+412 1    ibrahim sakty batubara  102  Other
+413 2    yahdil abdi harahap  s h   m h   103  Other
+414 3    h  nasril bahar  s e   104  Other
+415 4    taslim  s si   106  Other
+416 5    h  asman abnur  s e   m si   107  Other
+417 6    hanna gayatri  s h   108  Other
+418 7    hj  dewi coryati  m si   109  Opinion
+419 8    drs  h  fauzan syai   e 110  Other
+420 9    ir  alimin abdullah  111  Other
+421 10    h  chairul naim m  anik  s h   m h  112  Other
+422 11    h  a  bakri hm  s e   113  Other
+423 12    h  andi anzhar cakra wijaya  114  Other
+424 13    drs  h  rusli ridwan  m si   115  Other
+425 14    primus yustisio  116  Other
+426 15    ir  chandra tirta wijaya  117  Other
+427 16    h  nasrullah  s ip   119  Other
+428 17    muhammad hatta   121  Other
+429 18    ir  h  tjatur sapto edy  m t   122  Statement
+430 19    ir  taufik kurniawan  m m   123  Statement
+431 20    ahmad mumtaz rais  s e   124  Other
+432 21    ir  h  teguh juwarno  m si   125  Statement
+433 22    drs  abdul hakam naja  m si   126  Statement
+434 23    h  totok daryanto  s e   127  Other
+435 24    ir  sunartoyo  128  Other
+436 25    a  riski sadig  129  Other
+437 26    viva yoga mauladi  m si   133  Other
+438 27    drs  h  ach rubaie  s h   m h    134  Other
+439 28    h  sukiman  s  pd   m m   135  Other
+440 29    hang ali saputra syah pahan  136  Other
+441 30    prof  dr  ismet ahmad  137  Other
+442 31    muhammad syafrudin  s t   138  Other
+443 32    lauren bahang dama  139  Other
+444 33    indira chunda thita syahrul  s e   m m   140  Other
+445 34    a  taufan tiro  s t   141  Other
+446 35    amran  s e   142  Other
+447 36    dra  yasti soepredjo mokoagow  144  Other
+448 37    h  hendra s  singkarru  s e   145  Other
+449 jumlah kehadiran dari fraksi pan 37 dari 46 orang anggota   Opinion
+450 6  fraksi partai persatuan pembangunan   Opinion
+451 no nama no  anggota  Other
+452 1   drs  h  hasrul azwar  m m   282  Other
+453 2   maiyasyak johan  s h   m h   283  Other
+454 3   capt  h  epyardi asda  m mar   284  Other
+455 4   muhammad iqbal  s e   285  Other
+456 5   drs  h  wan abu bakar  m s   m si   286  Other
+457 6   ahmad yani  s h   m h   287  Other
+458 7   dra  hj  okky asokawati  s psi   288  Other
+459 8   hj  irna narulita  s e   289  Other
+460 9   achmad dimyati n   s h   m h   m si   290  Other
+461 10    drs  h  irgan chairul mahfiz  291  Other
+462 11    h  amin suparmin  s h i  293  Other
+463 12    dr  reni marlinawati  294  Other
+464 13    h  achmad farial  295  Other
+465 14    dra  hj  wardatul asriah  296  Other
+466 15    drs  h  endang sukandar  m si   297  Other
+467 16    k h  asep ahmad maoshul affandy  298  Other
+468 17    drs  h  ahmad kurdi moekri  299  Other
+469 18    drs  machmud yunus  300  Other
+470 19    drs  h  hisyam alie  301  Other
+471 20    h  muhamad arwani thomafi  302  Other
+472 21    m  romahurmuziy  s t   m t   304  Other
+473 22    drs  h  zainut tauhid sa adi  305  Other
+474 23    drs  h  akhmad muqowam  306  Other
+475 24    drs  zaini rahman  308  Other
+476 25    h  iskandar d  syaichu  309  Other
+477 26    h  mochammad mahfudh  s h   m si  310  Other
+478 27    h  usman ja far  311  Other
+479 28    dra  hj  norhasanah  m si   312  Other
+480 29    h  syaifullah tamliha  s pi   m s   313  Other
+481 30    h  m  aditya mufti ariffin  s h   314  Other
+482 31    nanang sulaeman  s e   315  Other
+483 32    tommy adrian firman 316  Other
+484 33    dr  aw thalib  m si   317  Other
+485 34    h  achmad dg  sere  s sos  318  Other
+486 jumlah kehadiran dari fraksi ppp 34 dari 38 orang anggota   Other
+487 7  fraksi partai kebangkitan bangsa   Other
+488 no nama no  anggota  Other
+489 1    ir  h  m  lukman edy  m si   147  Other
+490 2    chusnunia  148  Other
+491 3    drs  h  otong abdurrahman   149  Other
+492 4    h  dedi wahidi  s pd   150  Other
+493 5    h  marwan jafar  s e   s h    153  Other
+494 6    h  abdul kadir karding  s pi   155  Other
+495 7    bachrudin nasori  s si   m m   156  Statement
+496 8    muh  hanif dhakiri  157  Statement
+497 9    h  agus sulistiyono  s e   158  Statement
+498 10    h  imam nahrawi  s ag    159  Other
+499 11    hj  lili chodidjah wahid  160  Other
+500 12    abdul malik haramain  m si   161  Other
+501 13    ir  nur yasin  m b a   164  Other
+502 14    drs  h  ibnu multazam  167  Other
+503 15    dra  hj  ida fauziyah  168  Other
+504 16    dr  h  a  effendy choirie   170  Other
+505 17    k h  muh  unais ali hisyam  171  Other
+506 18    drs  h  bambang heri purnama  s t   172  Other
+507 19    mirati dewaningsih t   s t   173  Other
+508 20    peggi patricia pattipi 174  Other
+509 jumlah kehadiran dari fkb 20 dari 28 orang anggota   Other
+510 8  fraksi partai gerakan indonesia raya   Other
+511 no nama no  anggota  Other
+512 1   edhy prabowo  m m   m b a   19  Other
+513 2   nuriswanto  s h   m m   20  Other
+514 3   h  ahmad muzani  21  Other
+515 4   gunadi ibrahim  22  Other
+516 5   saifuddin donodjoyo  23  Other
+517 6   drs  h  harun al rasyid  24  Other
+518 7   h  budi heryadi  s e   s h   25  Other
+519 8   rachel mariam sayidina  26  Other
+520 9   ir  nuroji  28  Other
+521 10    putih sari  s kg   29  Other
+522 11    jamal mirdad  30  Other
+523 12    abdul wachid  31  Other
+524 13    dr  sumarjati arjoso  s km   32  Other
+525 14    ir  sadar subagyo 33  Other
+526 15    rindoko dahono wingit  s h   m kum   34  Other
+527 16    noura dian hartarony  36  Other
+528 17    lukman hakim  37  Other
+529 18    ir  soepriyatno  38  Other
+530 19    agung jelantik sanjaya  39  Other
+531 20    hj  mestaryani habie  s h   41  Other
+532 21    fary djemy francis 43  Other
+533 jumlah kehadiran dari fraksi partai gerakan indonesia raya 21 dari 26 orang anggota  Other
+534 9  fraksi partai hati nurani rakyat   Other
+535 no nama no  anggota  Other
+536 1    h  herry lontung siregar  2  Other
+537 2    drs  h  a  fauzi achmad  m b a   3  Other
+538 3    h  a  ferdinand sampurna jaya  4  Other
+539 4    drs  h  a  murady darmansjah  5  Other
+540 5    erik satrya wardhana  7  Other
+541 6    miryam s  haryani  s e   m si   8  Other
+542 7    susaningtyas nefo handayani kertapati  9  Other
+543 8    djamal aziz  b sc   s h   m h   10  Other
+544 9    dra  hj  soemintarsih muntoro  m si   11  Other
+545 10    h  sunardi ayub  s h   12  Other
+546 11    saleh husin  s e   m si   13  Other
+547 12    drs  akbar faisal  m si  14  Other
+548 13    drs  h  muchtar amma  m m  15  Other
+549 jumlah kehadiran dari fraksi partai hati nurani rakyat 13 dari 17 orang anggota   Other
+550 ketua rapat  drs  h  priyo budi santoso    Other
+551  anggota yang hadir per menit adalah 207 orang anggota  sehingga saya minta izin rapat masih  Other
+552 belum bisa kita buka  kita tunggu beberapa menit lagi   Other
+553  rapat dibuka untuk diskors pukul 10 35 wib   Other
+554 assalamu alaikum warahmatullahi wabarakaatuh   Other
+555 selamat siang dan salam sejahtera buat kita semua   Other
+556 yang saya hormati para anggota  ketua badan pemeriksa keuangan dan seluruh jajaran  Other
+557 pimpinan dan anggota   Other
+558 yang saya hormati anggota dewan dan hadirin sekalian yang saya muliakan   Other
+559  alhamdulillah  meskipun kemarin tenaga dan pikiran kita lelah  tapi alhamdulillah telah kita lalui  Other
+560 dengan sangat demokratis dan hari ini tugas tugas konstitusi sudah ada di depan kita  maka kita  Other
+561 laksanakan rapat paripurna dpr ri ke 23 dalam keadaan sehat wal afiat   Other
+562  menurut catatan dari sekretariat jenderal dewan  daftar hadir pada permulaan rapat paripurna  Request
+563 dewan hari ini telah ditandatangani oleh 300 orang anggota dengan perincian sebagai berikut   Other
+564   fraksi partai demokrat 87 orang anggota   Other
+565   fraksi partai golkar 58 orang anggota  Other
+566   fraksi pdi perjuangan 54 orang anggota  Other
+567   fraksi partai keadilan sejahtera 28 orang anggota   Other
+568   fraksi pan 25 orang anggota  Other
+569   fraksi ppp 16 orang anggota  Other
+570   fraksi pkb 7 orang anggota   Other
+571   fraksi parta gerindra 15 orang anggota  dan  Other
+572   fraksi partai hanura 10 orang dari 17 orang anggota   Other
+573 dengan demikian maka kuorum telah tercapai  dengan mengucapkan   Other
+574 bismillaahirahmaanirrahiim  Other
+575 izinkan saya selaku pimpinan dewan membuka rapat paripurna dewan ke 23 masa persidangan iii  Statement
+576 tahun sidang 2011 2012 hari ini selasa  3 april 2012 dan paripurna saya nyatakan terbuka untuk  Statement
+577 umum   Other
+578 sidang dewan yang mulia   Other
+579  berdasarkan pasal 59 undang undang nomor 24 tahun 2009 tentang bendera  bahasa   Request
+580 lambang negara serta lagu kebangsaan disebutkan bahwa     lagu kebangsaan wajib diperdengarkan  Other
+581 dan atau dinyanyikan dalam acara pembukaan sidang paripurna mpr  dpr  dpd dan dprd       Other
+582 berkenaan dengan itu  izinkan saya mengajak seluruh hadirin untuk berdiri sejenak dan dengan  Request
+583 khidmat kita nyanyikan lagu kebangsaan kita indonesia raya   Other
+584  menyanyikan lagu indonesia raya   Other
+585 sidang dewan yang terhormat   Other
+586  sesuai dengan jadwal acara rapat rapat dewan dan hasil keputusan rapat badan musyawarah  Other
+587 dewan tertanggal 29 maret 2012  maka acara rapat paripurna dewan hari ini adalah   Other
+588 1  penyampaian ikhtisar hasil pemeriksaan  hapsem  bpk ri semester ii tahun 2011 dan  Other
+589 penyerahan laporan dari hasil pemeriksaan   Other
+590 2  pembicaraan tingkat ii pengambilan keputusan terhadap rancangan undang undang  Other
+591 tentang pendidikan tinggi   Other
+592 3  pembicaraan tingkat ii pengambilan keputusan terhadap rancangan undang undang  Other
+593 tentang penanganan konflik sosial   Other
+594 sidang dewan yang terhormat   Other
+595  sebelum memasuki acara pertama rapat paripurna hari ini  dapat saya beritahukan bahwa  Statement
+596 pimpinan dewan telah menerima sepucuk surat dari pimpinan komisi x nomor 184 dan seterusnya  Other
+597 tertanggal 2 april 2012 perihal waktu pembicaraan tingkat ii ruu tentang pendidikan tinggi dan ruu  Other
+598 tentang pendidikan kedokteran  dalam suratnya antara lain komisi x mengharapkan kepada  Other
+599 pimpinan dewan agar pembicaraan tingkat ii pengambilan keputusan terhadap ruu tentang  Statement
+600 pendidikan tinggi yang sedianya dilaksanakan pada hari ini ditunda menjadi tanggal 10 april 2012    Other
+601  sehubungan dengan surat dimaksud selaku pimpinan rapat saya langsung saja meminta  Statement
+602 persetujuan rapat paripurna dewan  apakah permintaan komisi x dpr ri mengenai penundaan  Statement
+603 pembicaraan pengambilan keputusan terhadap ruu tentang pendidikan tinggi yang semula  Other
+604 dilaksanakan pada hari ini digeser menjadi 10 april 2012 dapat disetujui   Other
+605  rapat setuju   Other
+606 alhamdulillah   Other
+607  selanjutnya persetujuan ini akan ditindaklanjuti sesuai dengan mekanisme yang berlaku   Other
+608 sidang dewan yang terhormat   Other
+609  dengan disetujuinya permintaan komisi x tersebut  maka acara rapat paripurna dewan hari ini  Statement
+610 ada 2  dua  ialah   Other
+611 1  pidato penyampaian ikhtisar hasil pemeriksaan bpk ri semester ii tahun 2011 dan  Statement
+612 penyerahan laporan dari hasil pemeriksaan   Other
+613 2  pembicaraan tingkat ii pengambilan keputusan terhadap ruu tentang penanganan  Other
+614 konflik sosial   Other
+615 sidang dewan yang terhormat   Other
+616  untuk mempersingkat waktu marilah kita memasuki acara pertama sidang paripurna dewan hari  Statement
+617 ini ialah    Other
+618    penyampaian ikhtisar hasil pemeriksaan bpk ri semester ii tahun 2011 dan penyerahan  Statement
+619 laporan hasil pemeriksaan      Other
+620  sebagaimana kita ketahui bersama bahwa sesuai dengan pasal 71 huruf  n  undang undang  Statement
+621 nomor 27 tahun 2009 tentang md3 dinyatakan bahwa dpr mempunyai tugas dan wewenang  Statement
+622 membahas dan menindaklanjuti hasil pemeriksaan atas pengelolaan dan tanggung jawab keuangan  Statement
+623 negara yang disampaikan oleh bpk ri  untuk maksud tersebut  saya persilakan kepada yang  Statement
+624 terhormat saudara ketua badan pemeriksa keuangan republik indonesia  sahabat kita pak hadi  Statement
+625 poernomo untuk menyampaikan pidato laporan dari ikhtisar dimaksud  waktu saya persilakan  Statement
+626 kepada ketua bpk ri   Other
+627 ketua bpk  hadi poernomo    Other
+628 bismillaahirrahmaanirrahiim   Other
+629 yang terhormat bapak wakil ketua dpr ri   Statement
+630 yang kami hormati para anggota dpr ri   Other
+631 yang kami hormati para anggota bpk ri dan seluruh jajaran bpk ri  serta  Other
+632 hadirin sekalian yang saya muliakan   Other
+633 assalamu alaikum warahmatullahi wabarakaatuh   Other
+634 selamat pagi dan salam sejahtera bagi kita semua   Other
+635 om swastiastu   Other
+636  pertama tama marilah kita bersama sama memanjatkan puji dan syukur ke hadirat allah swt   Statement
+637 tuhan yang maha kuasa yang telah melimpahkan rahmat dan karunia nya  sehingga pada hari ini kita  Statement
+638 dapat menghadiri sidang paripurna dpr ri yang mulia ini dalam rangka penyerahan ikhtisar hasil  Other
+639 pemeriksaan semester  ihps  bpk semester ii tahun 2011   Other
+640  memenuhi mandat uud 1945 dan peraturan peundang undangan lainnya  hari ini bpk  Statement
+641 menyerahkan ihps dan laporan hasil pemeriksaan  lhp  periode 1 juli sampai dengan 31 desember  Statement
+642 2011 kepada dpr ri  penyerahan ihps dan lhp kepada rakyat melalui wakil wakilnya di dpr  Other
+643 bertujuan untuk memberikan informasi menyeluruh mengenai hasil pemeriksaan bpk atas pengelolaan  Other
+644 dan tanggung jawab keuangan negara dalam kurun waktu satu semester   Other
+645 pimpinan sidang dan hadirin yang saya muliakan   Other
+646  pada semester ii tahun 2011  bpk memprioritaskan pemeriksaannya pada pemeriksaan kinerja  Other
+647 dan pemeriksaan dengan tujuan tertentu  adapun untuk pemeriksaan keuangan dilakukan atas  Other
+648 laporan keuangan pemerintah daerah  lkpd  tahun 2010 yang belum diperiksa dan atau dilaporkan  Other
+649 pada semester i tahun 2011 karena lkpd belum diserahkan kepada bpk atau pemeriksaan masih  Other
+650 berlansung dan pemeriksaan atas lk badan lainnya  total obyek pemeriksaan bpk dalam semester ii  Statement
+651 tahun 2011 sebanyak 927 obyek pemeriksaan dengan rincian 166 obyek pemeriksaan keuangan  143  Other
+652 obyek pemeriksaan kinerja dan 618 obyek pemeriksaan dengan tujuan tertentu   Statement
+653  hasil pemeriksaan bpk yang dilaporkan dalam ihps ii tahun 2011 menemukan sebanyak  Other
+654 12 612 kasus senilai rp20 25 triliun  dari total temuan pemeriksaan bpk tersebut  sebanyak  Statement
+655 4 941 kasus senilai rp13 25 triliun merupakan temuan ketidakpatuhan yang mengakibatkan kerugian   Statement
+656 potensi kerugian dan kekurangan penerimaan  adapun temuan pemeriksaan berupa ketidakhematan   Statement
+657 ketidakefisienan dan ketidakefektifan sebanyak 1 056 kasus senilai rp6 99 triliun  selain itu dilaporkan  Statement
+658 pula temuan penyimpangan administrasi dan kelemahan sistem pengendalian intern  spi  sebanyak  Statement
+659 6 615 kasus   Other
+660  dari temuan kerugian  potensi kerugian dan kekurangan penerimaan senilai rp13 25 triliun   Statement
+661 selama proses pemeriksaan entitas telah menindaklanjuti dengan penyetoran ke kas  Statement
+662 negara daerah perusahaan senilai rp81 71 miliar dengan rincian temuan kerugian senilai  Other
+663 rp35 99 miliar  potensi kerugian senilai rp9 53 miliar dan kekurangan penerimaan senilai  Statement
+664 rp36 17 miliar   Other
+665 pimpinan sidang dan hadirin yang saya muliakan   Other
+666  pada semester ii tahun 2011  bpk telah melaksanakan pemeriksaan keuangan atas 158 lkpd  Other
+667 tahun 2010 serta 8 laporan keuangan bumd dan badan lainnya  dengan telah diselesaikannya  Other
+668 pemeriksaan atas 158 lkpd tahun 2010 tersebut  maka dalam tahun 2011 bpk telah menyelesaikan  Other
+669 laporan hasil pemeriksaan atas 516 lkpd tahun 2010 dari 524 pemerintah daerah di seluruh  Other
+670 indonesia yang wajib menyusun lkpd tahun 2010   Other
+671  dengan demikian dari 516 lkpd tahun 2010 yang diperiksa pada tahun 2011  bpk telah  Other
+672 memberikan opini wajar tanpa pengecualian  wtp  atas 34 laporan keuangan pemerintah daerah  Other
+673  lkpd   7    opini wajar dengan pengecualian  wdp  atas 341 lkpd  66    opini tidak wajar  tw   Statement
+674 atas 26 lkpd  5   dan opini tidak menyatakan pendapat  tmp  atas 115 lkpd  22      Statement
+675 secara umum opini lkpd tahun 2010 menunjukkan kenaikan proporsi opini wtp dan wdp  Other
+676 dibandingkan lkpd tahun sebelumnya  hal ini menggambarkan adanya perbaikan sistem pengelolaan  Other
+677 dan tanggung jawab keuangan daerah  khususnya dalam pencatatan dan pelaporan keuangan daerah  Statement
+678 oleh pemerintah daerah   Other
+679  meskipun sistem pengelolaan dan tanggung jawab keuangan daerah menunjukkan perbaikan   Other
+680 sebanyak 27   lkpd masih diberi opini tmp dan tw oleh bpk  hal ini menunjukkan efektivitas spi  Other
+681 pemerintah daerah yang bersangkutan belum optimal  kelemahan pengendalian intern dalam  Other
+682 pengelolaan keuangan daerah pada umumnya meliputi permasalahan kurang tertibnya penyusunan  Other
+683 dan penerapan kebijakan  lemahnya pengendalian fisik atas aset  kelemahan pengelolaan dan  Other
+684 pengendalian atas kas daerah serta pencatatan transaksi yang kurang akurat dan tepat waktu   Other
+685  pemeriksaan terhadap 158 lkpd juga menemukan 1 796 kasus kelemahan spi  selain opini dan  Statement
+686 temuan spi  hasil pemeriksaan juga menemukan ketidakpatuhan terhadap ketentuan perundang undangan  Statement
+687 yang mengakibatkan kerugian  potensi kerugian dan kekurangan penerimaan sebanyak 2 585 kasus  Other
+688 senilai rp1 72 triliun  dari temuan ketidakpatuhan tersebut telah ditindaklanjuti dengan penyetoran ke  Other
+689 kas negara daerah selama proses pemeriksaan senilai rp19 10 miliar   Other
+690  selain pemeriksaan atas lkpd  bpk juga telah melakukan pemeriksaan atas 8 laporan keuangan  Other
+691 bumd dan badan lainnya  terhadap kasus kasus yang terjadi pada pemeriksaan keuangan  bpk telah  Other
+692 merekomendasikan kepada entitas yang diperiksa agar melakukan langkah langkah perbaikan sesuai  Other
+693 dengan rekomendasi bpk yang dimuat dalam lhp  antara lain agar menyusun dan menetapkan  Other
+694 pedoman kerja sesuai ketentuan yang berlaku  menegur dan atau memberi sanksi kepada pejabat  Other
+695 pelaksana yang tidak mentaati ketentuan perundang undangan  meningkatkan pengawasan dan  Statement
+696 pengendalian  melaksanakan pemotongan pemungutan atas pendapatan negara daerah sesuai  Other
+697 ketentuan  mempertanggungjawabkan penggunaan anggaran serta menarik dan menyetorkan  Other
+698 kerugian  potensi kerugian dan kekurangan penerimaan ke kas negara daerah perusahaan   Other
+699 pimpinan sidang dan hadirin yang saya muliakan   Other
+700  dalam semester ii tahun 2011  bpk telah melaksanakan pemeriksaan kinerja atas 143 obyek  Other
+701 pemeriksaan  terdiri dari 30 obyek pemeriksaan di lingkungan pemerintah pusat  56 obyek  Other
+702 pemeriksaan di lingkungan pemerintah daerah  9 obyek pemeriksaan di lingkungan bumn  29 obyek  Other
+703 pemeriksaan di bumd dan 19 obyek pemeriksaan di lingkungan blu   Statement
+704  pemeriksaan kinerja pada semester ii tahun 2011 meliputi pelayanan kesehatan rumah sakit dan  Other
+705 dinas kesehatan  pengelolaan pdam  pengelolaan pendidikan  upaya pengendalian korupsi  efektivitas  Statement
+706 pengendalian pertumbuhan penduduk  penetapan formasi dan pengadaan pns dan efektivitas  Statement
+707 perencanaan  pelaksanaan  pelaporan dan monitoring dalam kegiatan bisnis perbankan  adapun  Statement
+708 kesimpulan hasil pemeriksaan bpk terhadap beberapa pemeriksaan kinerja tersebut adalah sebagai  Statement
+709 berikut   Other
+710  terkait dengan pemeriksaan kinerja bpk atas pelayanan rumah sakit dan dinas kesehatan yang  Statement
+711 dilakukan terhadap 50 objek pemeriksaan  bpk menyimpulkan bahwa pelayanan kesehatan rumah  Statement
+712 sakit dan dinas kesehatan secara umum kurang efektif  hal tersebut ditunjukkan dengan masih  Other
+713 ditemukan kelemahan kelemahan yang mempengaruhi efektivitas pelayanan kesehatan  antara lain  Other
+714 pelayanan kesehatan di ruang rawat inap kelas iii belum sesuai standar dan adanya tambahan  Other
+715 kenaikan harga obat yang dibebankan pada pasien   Other
+716  atas pemeriksaan kinerja pengelolaan pdam yang dilakukan terhadap 27 objek pemeriksaan   Statement
+717 bpk menyimpulkan bahwa pengelolaan pdam secara umum belum efektif  hal tersebut ditunjukkan  Other
+718 dengan masih ditemukan kelemahan kelemahan yang mempengaruhi efektifitas pengelolaan pdam   Other
+719 antara lain tingkat kehilangan air melebihi batas toleransi yang ditetapkan dan pencatatat pemakaian  Other
+720 air pelanggan tidak akurat   Other
+721 hasil pemeriksaan bpk terhadap kinerja pengelolaan pendidikan terhadap 17 objek pemeriksaan  Statement
+722 menunjukkan pengelolaan pendidikan secara umum belum efektif  hal tersebut ditunjukkan antara lain  Other
+723 entitas yang masih belum memiliki database kependidikan serta belum mampu memenuhi standar  Statement
+724 pelayanan minimal  pemenuhan sarana dan prasarana serta tenaga pendidik   Statement
+725  sementara itu hasil pemeriksaan kinerja terhadap program konversi minyak tanah ke liquied  Statement
+726 petroleum gas  lpg  yang dilakukan terhadap 2 objek pemeriksaan menunjukkan pelaksanaan  Statement
+727 pengadaan dan pendistribusian paket perdana tabung lpg 3 kg oleh pt  pertamina cukup efektif dan  Statement
+728 program konversi minyak tanah ke lpg dari tahun 2007 sampai dengan 2010 telah dapat menghemat  Statement
+729 subsidi pemerintah senilai rp20 99 triliun  namun pelaksanaan program tersebut belum didukung  Other
+730 dengan manajemen yang baik  antara lain pelaksanaan program konversi minyak tanah ke lpg 3 kg  Statement
+731 kurang didasarkan perencanaan yang memadai   Other
+732  terhadap kelemahan kelemahan yang terjadi pada pemeriksaan kinerja  bpk telah  Statement
+733 merekomendasikan kepada entitas yang diperiksa agar melakukan langkah langkah perbaikan sesuai  Other
+734 dengan rekomendasi bpk yang dimuat dalam lhp  antara lain agar menyusun dan menetapkan  Statement
+735 pedoman kerja sesuai ketentuan yang berlaku  melakukan langkah langkah perbaikan sesuai standar  Other
+736 yang berlaku  meningkatkan pelayanan kepada masyarakat  meningkatkan pengawasan dan  Statement
+737 pengendalian serta mempertanggungjawabkan penggunaan anggaran   Other
+738 pimpinan sidang dan hadirin yang saya muliakan   Other
+739  dalam semester ii tahun  2011  bpk telah melakukan pdtt atas 618 objek pemeriksaan  terdiri  Statement
+740 atas 190 objek pemeriksaan di lingkungan pemerintah pusat  363 objek pemeriksaan di lingkungan  Statement
+741 pemerintah daerah  28 objek pemeriksaan di lingkungan bumn  36 objek pemeriksaan di lingkungan  Statement
+742 bumd dan 1 objek pemeriksaan di lingkungan bhmn blu badan lainnya  pdtt pada semester ii  Statement
+743 tahun 2011 ini dikelompokkan dalam 10 tema yaitu pengelolaan pendapatan  pelaksaan belanja   Statement
+744 pengelolaan barang milik negara atau daerah  penyertaan modal daerah  pelaksanaan kontrak  Other
+745 kerjasama minyak dan gas bumi  pelaksaaan kewajiban pelayanan umum  review sistem pengendalian  Statement
+746 intern bumn  operasional bumn  operasional rsud rskd  pdam dan bumd lainnya dan  Statement
+747 operasional bank daerah   Other
+748  hasil pdtt mengungkapkan 2 309 kasus kelemahan spi dan 5 744 kasus ketidakpatuhan  Statement
+749 terhadap ketentuan perundang undangan senilai rp18 32 triliun  dari nilai temuan tersebut yang  Statement
+750 merupakan temuan kerugian  potensi kerugian  kekurangan penerimaan sebanyak 3 507 kasus senilai  Statement
+751 rp11 83 triliun  rekomendasi atas kasus tersebut adalah penyetoran sejumlah uang ke kas  Statement
+752 negara daerah perusahaan atau penyerahan aset  selain temuan tersebut terdapat temuan  Other
+753 ketidakhematan  ketidakefesienan  ketidakefektifan  kelemahan spi dan penyimpanan administrasi  Statement
+754 yang tidak memiliki nilai uang  tetapi memerlukan perbaikkan spi dan atau tindakan adminstratif   Statement
+755  selama proses pemeriksaan  temuan ketidakpatuhan yang mengakibatakan kerugian  potensi  Statement
+756 kerugian dan kekurangan penerimaan telah ditindaklanjuti dengan penyetoran ke kas negara daerah  Other
+757 senilai rp61 04 miliar   Other
+758 terhadap kasus kasus yang terjadi pada pdtt  bpk telah merekomendasikan kepada entitas  Other
+759 yang diperiksa agar melakukan langkah langkah perbaikan sesuai dengan rekomendasi bpk yang  Other
+760 dimuat dalam lhp antara lain agar menuyusun dan menetapkan pedoman kerja sesuai ketentuan  Other
+761 yang berlaku  menegur dan atau memberi sanksi kepada pejabat pelaksaan yang tidak mentaati  Other
+762 ketentuan perundang undangan  melakukan upaya penagihan secara optimal  melaksankan  Statement
+763 pemotongan pemungutan sesuai ketentuan  mempertanggungjawabkan penggunaan anggaran   Other
+764 menarik dan menyetorkan kerugian  potensi kerugian dan kekurangan penerimaan ke kas  Other
+765 negara daerah perusahaan dan meningkatkan pengawasan dan pengendalian   Other
+766 pimpinan sidang dan hadirin yang saya muliakan   Other
+767 sesuai pasal 20 undang undang nomor 15 tahun 2004 tentang pemeriksaan pengelolaan dan  Statement
+768 pertanggungjawaban keuangan negara  bpk diberi mandat untuk memantau pelaksaan tindak lanjut  Statement
+769 hasil pemeriksaan dan memberitahukan hasil pemantauan tindak lanjut tersebut kepada lembaga  Statement
+770 perwakilan  berdasarkan hasil pemeriksaan tahun 2005 sampai dengan semester ii tahun 2011  bpk  Statement
+771 telah memberikan 216 122 rekomendasi senilai rp121 34 triliun  rekomendasi ini harus ditindaklanjuti  Other
+772 oleh entitas yang diperiksa antara lain dengan melakukan perbaikan spi  tindakan administratif  Other
+773 dan atau penyetoran kas penyerahan aset ke negara daerah perusahaan   Other
+774  dari 216 122 rekomendasi senilai rp121 34 triliun  telah ditindaklanjuti sesuai dengan  Other
+775 rekomendasi sebanyak 127 310 rekomendasi  58 91   senilai rp51 53 triliun  sebanyak  Other
+776 47 094 rekomendasi  21 79   senilai rp45 43 triliun telah ditindaklanjuti namun belum sesuai dengan  Other
+777 rekomendasi atau dalam proses tindak lanjut dan sebanyak 41 718 rekomendasi  19 30   senilai  Other
+778 rp24 37 triliun belum ditindaklanjuti   Other
+779  selain pemantauan atas status tindak lanjut rekomendasi  bpk juga mencatat bahwa  Other
+780 rekomendasi bpk sejak tahun 2005 sampai dengan akhir tahun 2011 telah ditindaklanjuti oleh entitas  Statement
+781 yang bertanggung jawab dengan cara menyetorkan sejumlah uang ke kas atau penyerahan aset ke  Other
+782 negara daera perusahaan senilai rp30 33 triliun   Other
+783  sementara itu perbandingan tindak lanjut rekomendasi pemeriksaan bpk antara posisi semester i  Statement
+784 tahun 2011 dengan semester ii tahun 2011 menunjukkan bahwa selama semester ii tahun 2011  Other
+785 terdapat peningkatan tindak lanjut yang sesuai dengan rekomendasi yakni sebanyak 21 252 kasus  Other
+786 senilai rp13 66 triliun  pada semester i tahun 2011 rekomendasi yang telah ditindaklanjuti sesuai  Other
+787 dengan rekomendasi pada semester i tahun 2011 sebanyak 106 058  55 31   dan pada semester ii  Other
+788 tahun 2011 meningkat menjadi 127 310  58 91    demikian juga rekomendasi yang masih dalam  Other
+789 proses tindak lanjut meningkat dari 40 841 atau 21 30   semester i tahun 2011  menjadi 47 094 kasus  Other
+790 atau 21 79   semester ii tahun 2011   hal ini menunjukkan bahwa ada usaha yang lebih keras dari  Other
+791 entitas yang diperiksa untuk segera menindaklanjuti rekomendasi bpk   Other
+792  selain itu selama semester ii tahun 2011 entitas yang diperiksa telah menindaklanjuti  Other
+793 rekomendasi bpk dengan penyetoran sejumlah uang ke kas negara daerah perusahaan dan atau  Other
+794 penyerahaan aset senilai rp4 76 triliun  jumlah ini sudah termasuk penyetoran sejumlah  Other
+795 uang penyerahan aset yang dilakukan selama proses pemeriksaan senilai rp81 71 miliar   Other
+796 pimpinan sidang dan hadirin yang saya muliakan   Other
+797  hasil pemantauan penyelesaian kerugian negara daerah periode akhir tahun 2003 sampai  Other
+798 dengan semester ii tahun 2011 menunjukkan sebanyak 16 778 kasus senilai rp4 32 triliun   Other
+799 penyelesaian berupa angsuran terpantau sebanyak 4 401 kasus senilai rp550 01 miliar  pelunasan  Other
+800 sebanyak 6 794 kasus senilai rp712 83 miliar  penghapusan kerugian negara daerah telah dilakukan  Other
+801 atas 125 kasus senilai rp12 43 miliar  sisa kasus kerugian negara daerah yang belum diselesaikan  Other
+802 adalah sebanyak 9 859 kasus senilai rp3 04 triliun   Other
+803  pada semester ii tahun 2011  bpk telah memantau penyelesaian kerugian negara daerah pada  Other
+804 897 entitas dari 2 129 entitas atau sebesar 42 13  yang meliputi instansi pusat  instansi daerah   Other
+805 bumn dan bumd  hasil pemantauan penyelesaian kerugian negara daerah pada semester ii  Other
+806 tahun 2011 menunjukkan bahwa jumlah kasus kerugian negara daerah yaitu sebanyak 516 kasus  Other
+807 senilai rp761 50 miliar dengan penyelesaian berupa angsuran sebanyak 152 kasus senilai  Other
+808 rp7 73 miliar  pelunasan sebanyak 168 kasus senilai rp7 61 miliar  sisa kasus kerugian  Other
+809 negara daerah pada semester ii tahun 2011 adalah sebanyak 348 kasus senilai rp746 15 miliar   Other
+810  sementara itu pemantauan terhadap hasil pemeriksaan bpk berindikasi tindak pidana korupsi  Statement
+811 yang disampaikan kepada instansi yang berwenang  aparat penegak hukum  menunjukkan bahwa  Other
+812 sejak tahun 2003 sampai dengan akhir tahun 2011   jumlah lhp bpk berindikasikan tidak pidana yang  Other
+813 telah disampaikan kepada instansi berwenang adalah sebanyak 318 kasus senilai rp33 87 triliun   Other
+814 diantaranya 13 kasus telah disampaikan bpk kepada aparat penegak hukum pada periode semester ii  Other
+815 tahun 2011  dari 318 kasus yang diserahkan tersebut  instansi yang berwenang yaitu kepolisian ri   Other
+816 kejaksaan ri dan komisi pemberantasan korupsi  kpk  telah menindaklanjuti 186 kasus yaitu  Other
+817 pelimpahan kepada jajaran penyidik lainnya sebanyak 37 kasus  ekspos telaahan koordinasi sebanyak  Statement
+818 21 kasus  penyelidikan sebanyak 30 kasus  penyelidikan sebanyak 10 kasus  proses sidang 2 kasus   Other
+819 penuntutan sebanyak 11 kasus  vonis banding kasasi sebanyak 64 kasus dan sp3 sebanyak 11 kasus   Statement
+820 sisa kasus yang belum ditindalkanjuti atau tidak ada data tindak lanjutnya yaitu sebanyak 132 kasus   Statement
+821 pimpinan sidang dan hadirin yang saya muliakan   Other
+822  meskipun berbagai kemajuan telah dicapai dalam pengelolaan keuangan negara oleh pemerintah   Other
+823 namun hasil pemeriksaan bpk dalam semester ii tahun 2011 menggambarkan masih terdapat  Other
+824 kelemahan dalam pengelolaan keuangan negara yang memerlukan upaya perbaikan  bpk senantiasa  Other
+825 akan terus mendorong pemerintah untuk memperbaiki kualitas pengelolaan keuangan negara  bpk  Other
+826 juga terus bekerja sama dengan pemerintah dan dpr dalam rangka mewujudkan pengelolaan  Other
+827 keuangan yang transparan dan akuntabel  dalam upaya untuk meningkatkan kerjasama amtara bpk  Other
+828 dan dpr tersebut  bpk setiap saat membuka diri untuk melakukan dialog dan pertemuan pertemuan  Other
+829 konsultasi   Other
+830  demikian hal hal yang dapat kami sampaikan pada sidang paripurna dpr yang terhormat ini   Other
+831 kami berharap informasi yang kami sampaikan pada ikhtisar hasil pemeriksaan dan laporan hasil  Other
+832 pemeriksaan bpk semester ii tahun 2011 dapat mendukung tugas dan wewenang dpr sesuai  Other
+833 peraturan perundang undangan  sekali lagi kami mengucapkan terima kasih atas kerjasama dan  Statement
+834 perhatian pimpinan dan anggota dpr yang terhormat   Other
+835 wabillaahittaufik wal hidayah   Other
+836 wassalamu   alaikum warahmatullahi wabarakaatuh   Other
+837  badan pemeriksa keuangan  Other
+838 republik indonesia  Other
+839 ketua   Other
+840 drs  hadi poernomo  ak   Other
+841 ketua rapat   Other
+842  kalau dengan ketua bpk kita harus turun panggung dahulu ini   Other
+843 terima kasih saya sampaikan kepada ketua bpk ri yang telah dengan resmi  Other
+844 menyampaikan pidato ikhtisar hasil pemeriksaan republik indonesia semester ii tahun 2011  Other
+845 dan laporan hasil pemeriksaannya    Other
+846  selanjutnya sesuai dengan pasal 113 undang undang nomor 27 tahun 2009 tentang md3 dan  Other
+847 pasal 70 peraturan dpr ri nomor 1 tahun 2009 tentang tatib  maka hasil pemeriksaan tersebut kita  Other
+848 serahkan kepada badan akuntabilitas keuangan negara untuk menindaklanjutinya  kita berharap hasil  Other
+849 pemeriksaan bpk tersebut dapat menjadi bahan berharga bagi dewan  khususnya komisi komisi   Other
+850 untuk mempelajari  membahas  mematangkan  menindaklanjutinya dalam rangka tugas pengawasan  Other
+851 dan anggaran melalui rapat kerja dan rapat dengar pendapat dengan mitra kerjanya masing masing   Other
+852 sidang dewan yang terhormat   Other
+853  dengan demikian selesailah acara pertama rapat paripurna kita pada hari ini    Statement
+854 sebelum kita memasuki acara selanjutnya  rapat akan saya skors 3 menit untuk memberi  Other
+855 kesempatan kepada yang terhormat saudara ketua  wakil ketua anggota bpk ri beserta jajarannya  Other
+856 meninggalkan ruang sidang dan mempersilakan kepada saudara menteri hukum  menteri pan   Other
+857 menteri sosial  menteri dalam negeri untuk segera memasuki ruang sidang paripurna    Other
+858 rapat saya skors 3 menit  saya persilakan pak hadi poernomo dan seluruh pimpinan   Other
+859  ketua bpk ri beserta jajarannya meninggalkan ruang sidang   Other
+860  rapat diskors pukul 11 10 wib   Statement
+861 ketua rapat   Other
+862 assalamu   alaikum warahmatullahi wabarakaatuh   Other
+863 yang terhormat saudara menteri pendayagunaan aparatur negara  dan reformasi birokrasi  Other
+864 beserta jajarannya   Other
+865 saudara dirjen dari kementerian dalam negeri dan kementerian sosial   Other
+866 yang terhormat para angota dewan dan hadirin yang saya muliakan   Other
+867  dengan ini skort rapat saya cabut dan rapat paripurna kita lanjutkan kembali   Statement
+868  skort dicabut pukul 11 15 wib   Other
+869  sekarang marilah kita memasuki acara terakhir rapat paripurna kita pada hari ini yaitu   Statement
+870    pembicaraan tingkat ii pengambilan keputusan tentang ruu tentang penanganan konflik  Statement
+871 sosial      Other
+872 perlu kami beritahukan bahwa berdasarkan ketentuan pasal 151 ayat  1  undang undang  Other
+873 tentang md3  pembicaraan tingkat ii pengambilan keputusan dalam rapat paripurna dengan pokok  Statement
+874 kegiatan sebagai berikut   Other
+875 a  penyampaian yang berisi proses pendapat mini fraksi  pendapat mini dpd dan hasil pembicaraan  Other
+876 tingkat i   Other
+877 b  pernyataan persetujuan atau penolakan dari tiap tiap fraksi dan anggota secara lisan diminta oleh  Other
+878 pimpinan rapat paripurna   Other
+879 c  pendapat akhir presiden yang disampaikan oleh menteri yang mewakilinya   Other
+880 berkenaan dengan hal tersebut  saya ingin persilakan kepada saudara ketua pansus  yang  Other
+881 terhormat saudara komisaris jenderal polisi  purn  adang daradjatun  untuk menyampaikan  Other
+882 laporan hasil pembahasan ruu dimaksud  waktu dan tempat saya persilakan   Other
+883 ketua pansus ruu pks  drs  h  adang daradjatun    Other
+884 laporan pansus  Other
+885 ruu tentang penanganan konflik sosial  Other
+886 pada rapat paripurna  Other
+887 dewan perwakilan rakyat republik indonesia  Other
+888 yang terhormat pimpinan dan anggota dewan   Other
+889 yang terhormat saudara menteri pendayagunaan aparatur negara dan reformasi birokrasi    Other
+890 yang terhormat saudara menteri dalam negeri atau yang mewakili    Other
+891 yang terhormat saudara menteri sosial atau yang mewakili   Other
+892 yang terhormat saudara menteri pertahanan atau yang mewakili  dan   Other
+893 saudara menteri hukum dan ham atau yang mewakili  dan   Other
+894 hadirin yang berbahagia   Other
+895 assalamu alaikum warahmatullahi wabarakaatuh    Other
+896 salam sejahtera bagi kita semua    Other
+897 mengawali laporan pembahasan tingkat i ruu penanganan konflik sosial  perkenankanlah saya  Statement
+898 mengajak kita semua untuk memanjatkan puji syukur ke hadirat allah swt  tuhan yang maha esa  Other
+899 atas segala rahmat dan karunia nya yang telah melimpahkan kepada kita kesehatan yang baik   Other
+900 sehingga hari ini kita dapat menghadiri rapat paripurna dpr ri    Other
+901 pimpinan dan anggota dewan yang terhormat   Other
+902  usul inisiatif dewan terhadap pembentukan undang undang tentang penanganan konflik sosial  Other
+903 patut mendapatkan apresiasi  karena akhir akhir ini dinamika kehidupan sosial masyarakat kita marak  Other
+904 dengan kejadian konflik sosial yang hampir menyebar di seluruh kabupaten kota dan provinsi    Other
+905 sistem penanganan konflik yang dikembangkan selama ini lebih mengarah kepada penanganan  Statement
+906 yang bersifat militeristrik atau represif  penyelesaian konflik belum dilaksanakan secara komprehensif  Other
+907 dan integratif  peraturan perundang undangan yang terkait dengan penanganan konflik sosial masih  Statement
+908 bersifat parsial dan belum dalam bentuk peraturan perundang undangan yang dikeluarkan oleh  Statement
+909 pemerintah dalam bentuk instruksi presiden  keputusan presiden dan peraturan presiden    Other
+910 undang undang penanganan konflik sosial akan menjadi solusi hukum terhadap permasalahan  Other
+911 penanganan konflik sosial yang kita hadapi saat ini  baik sebagai upaya pencegahan maupun  Other
+912 penghentian konflik dan pasca konflik yang dilaksanakan secara integratif dengan menyatukan semua  Other
+913 sumber daya nasional yang ada  baik institusi pemerintah pusat  pemerintah daerah  polri  tni serta  Other
+914 masyarakat dalam satu sistem yang utuh   Other
+915 pimpinan dan anggota dewan yang terhormat   Other
+916  pembahasan ruu penanganan konflik sosial merupakan hasil keputusan rapat paripurna dpr ri  Other
+917 tanggal 5 juli 2011 serta keputusan pimpinan dpr ri nomor 03 dpr ri iv 2010 2011 dan  Other
+918 rapat badan musyawarah dpr ri tanggal 30 juni 2011 yang menugaskan pansus untuk melakukan  Other
+919 pembahasan tingkat i bersama sama dengan pemerintah   Other
+920 pembahasan ruu pks dilaksanakan dalam 4  empat  masa persidangan yaitu  Other
+921 masa persidangan iv 2010 2011  masa persidangan i  ii  iii 2011 2012  pembahasan ruu pks  Other
+922 mengacu kepada draft ruu usul inisiatif dewan yang terdiri dari 9 bab dan 58 pasal dengan  Other
+923 sistematika sebagai berikut    Other
+924 bab i ketentuan umum   Other
+925 bab ii asas tujuan dan ruang lingkup penanganan konflik   Statement
+926 bab iii pencegahan konflik   Other
+927 bab iv penghentian konflik   Other
+928 bab v pemulihan packa konflik   Statement
+929 bab vi kelembagaan penyelesaian konflik   Statement
+930 bab vii peran serta masyarakat   Other
+931 bab viii pembiayaan penanganan konflik  dan   Statement
+932 bab ix ketentuan pentutup    Other
+933 terhadap ruu usul inisiatif tersebut pemerintah menyampaikan dim yang berjumlah 304 dim  Other
+934 dengan perincian 105 dim yang tetap dan langsung disetujui  182 dim yang dihapus  14 dim yang  Other
+935 bersifat perubahan redaksional  3 dim yang substansinya berubah  pansus dpr sunguh sungguh  Other
+936 mencermati 182 dim yang diusulkan dihapus oleh pemerintah yang terkait dengan 4  empat  hal yaitu  Other
+937 asas asas penanganan konflik  penghentian konflik  kelembagaan penyelesaian konflik  pembiayaan  Statement
+938 penanganan konflik    Other
+939 fraksi fraksi dalam pansus menyepakati bahwa penghapusan beberapa pasal oleh pemerintah  Other
+940 mengakibatkan substansi dan sistematika ruu kehilangan alur  tidak sistematis  tidak jelasnya peran  Other
+941 institusi pemerintah  baik secara fungsional maupun tindakan khusus  pansus menyepakati untuk  Other
+942 melanjutkan pembahasan ruu pks dalam panitia kerja dengan pemikiran tetap mempertahankan  Other
+943 sistematika ruu inisiatif dpr dan melakukan perbaikan dan penyempurnaan rumusan  walaupun  Other
+944 terdapat beberapa perbedaan pandangan mengenai poin poin penting di dalam ruu  namun dengan  Other
+945 proses pembahasan yang terbuka  dialogis dan mengedepankan musyawarah untuk mufakat   Other
+946 perbedaan perbedaan tersebut dapat diselesaikan dengan baik dan menghasilkan poin poin di dalam  Other
+947 ruu yang diterima bersama    Other
+948 selanjutnya pembahasan oleh pansus  panja  timus dan timsin mencapai hasil akhir ruu  Other
+949 menjadi 10 bab dan 63 pasal yaitu    Other
+950 bab i ketentuan umum  Statement
+951 bab ii asas tujuan ruang lingkup   Other
+952 bab iii pencegahan konflik   Other
+953 bab iv penghentian konflik  Other
+954 bab v pemulihan paska konflik  Statement
+955 bab vi kelembagaan dan mekanisme penyelesaian konflik  Statement
+956 bab vii peran serta masyarakat  Statement
+957 bab viii pendanaan  Statement
+958 bab ix ketentuan peralihan  dan   Statement
+959 bab x ketentuan penutup    Statement
+960 selanjutnya dalam rangka pelaksanaan undang undang penanganan konflik sosial  pansus  Statement
+961 mengingatkan pentingnya pemerintah untuk menyelesaikan pembentukan peraturan pemerintah paling  Statement
+962 lama 1 tahun 6 bulan terhitung sejak undang undang ini diundangkan    Statement
+963 pimpinan dan anggota dewan yang terhormat   Other
+964  demikianlah laporan pembahasan ruu penanganan konflik sosial  selanjutnya pansus  Statement
+965 menyampaikan ruu penanganan konflik sosial dalam rapat paripurna dewan dalam rangka  Other
+966 pengambilan keputusan persetujuan untuk ditetapkan menjadi undang undang    Other
+967 pansus mengucapkan terima kasih kepada berbagai pihak yang telah mendukung kelancaran  Other
+968 proses pembahasan ruu penanganan konfllik sosial  semoga allah swt meridhoi amal ibadah kita  Other
+969 dan senantiasa melimpahkan rahmat nya kepada kita semua    Statement
+970 sekian dan terima kasih   Statement
+971 wassalamu   alaikum warahmatullahi wabarakaatuh    Statement
+972  ketua pansus  Other
+973 drs  h  adang daradjatun  Other
+974 a 60  Statement
+975 interupsi f pdip  tb  hasanuddin  s e   m m     Other
+976 pimpinan yang terhormat   Other
+977 ketua rapat   Other
+978  sebentar  sebentar   Other
+979 terima kasih saya sampaikan kepada h  adang doro  dara atau doro ya  adang daradjatun   Other
+980 kalau bahasa jawa saya dorodjatun  yang telah menyampaikan dengan jelas hasil laporan dari  Other
+981 pansus ruu tentang pks  ruu tentang penanganan konflik sosial   Other
+982 baik  tadi ada yang interupsi  silakan  mana ini  tidak terdengar  pak tubagus hasanuddin  saya  Other
+983 persilakan   Other
+984 f pdip  tb  hasanuddin  s e   m m     Other
+985  terima kasih    Other
+986 pimpinan dan rekan rekan yang saya hormati dan saya cintai    Other
+987 assalamu alaikum warahmatullahi wabarakaatuh    Other
+988 walaupun barangkali ruu pks ini sudah selesai dibahas  kemudian hari ini dibacakan dan  Other
+989 kemudian meminta persetujuan dari seluruh rekan rekan anggota dpr yang saya paling hormati   Other
+990 termasuk juga pimpinan  tapi izinkan sebelum nanti diketuk palu memasukkan informasi informasi ini  Other
+991 agar undang undang yang kita buat bersama itu menjadi undang undang yang tidak berbenturan  Other
+992 dengan undang undang yang lain dan juga agar sesuai dengan ruh reformasi  termasuk di dalamnya  Statement
+993 reformasi tentara nasional indonesia   Other
+994 izinkan saya menyampaikan beberapa hal  yang pertama  didalam nuansa berbangsa dan  Other
+995 bernegara ada 6  enam  keputusan yang hanya boleh diputuskan oleh pemerintah pusat  antara lain  Other
+996 misalnya masalah fiskal  kemudian politik luar negeri dan lain sebagainya  satu di dalamnya adalah  Other
+997 masalah pertahanan  termasuk di dalamnya adalah gunkuat atau penggunaan kekuatan itu hanya  Other
+998 oleh presiden republik indonesia  kemudian di dalam era reformasi dibagi 2  dua   untuk perang atau  Other
+999 biasa disebut dengan operasi militer untuk perang  itu harus dengan seizin dewan perwakilan rakyat   Other
+1000 kemudian untuk operasi militer selain perang  itu ada 14  empat belas  item di dalamnya  itu harus  Other
+1001 dengan pertimbangan dpr pusat    Other
+1002 saya kira sudah terpaku di dalam pasal 7 ayat  1    2  dan  3  sudah clear bahkan sudah ada  Other
+1003 penjelasan dari mahkamah konstitusi  pada saat ruu undang undang tni  saya menjadi salah satu  Other
+1004 anggota panjanya  jadi saya paham betul  sekarang mari kita lihat dalam ruu pks pasal 34    Other
+1005 ketua yang saya hormati   Other
+1006 di sini pasal 34 pengerahan dan penggunaan kekuatan tni    Other
+1007 1   dalam status keadaan konflik skala kabupaten kota  bupati  walikota  dalam hal ini bupati atau  Statement
+1008 walikota berkenan meminta pengerahan dan penggunaan kekuatan tni melalui forum koordinasi  Other
+1009 pimpinan daerah kabupaten atau kota dan ini bertentangan dengan undang undang tni sendiri   Other
+1010 ini mohon dicatat    Other
+1011 ketua rapat   Other
+1012  pasal berapa tadi   Other
+1013 f pdip  tb  hasanuddin  s e   m m     Other
+1014  pasal 34 ayat  1  dan  2     Other
+1015 2  dalam status keadaan konflik skala provinsi gubernur berwenang meminta pengerahan dan  Other
+1016 penggunaan kekuatan tni melalui forum koordinasi pimpinan daerah provinsi       Other
+1017 ini nomor 1 dan nomor 2 bertentangan dengan undang undang tni  tetapi nomor 3 itu benar   Statement
+1018 karena yang boleh memberikan wewenang itu hanya presiden setelah berkonsultasi kepada dpr ri   Other
+1019 ini betul  kalau kita melihat ruh dari pasal 34 nomor 1 dan nomor 2 itu seharusnya menggunakan  Other
+1020 undang undang darurat tahun 1959 dan itu harus dalam keadaan darurat dahulu diumumkan  ini  Other
+1021 mohon menjadi pemikiran kita semua dan kalau ini nanti dibawa ke mk saya yakin nanti akan  Other
+1022 bermasalah juga  saya mohon dengan hormat pimpinan untuk      Other
+1023 interupsi f pks  drs  mahfudz siddiq  m si     Other
+1024  pimpinan  setelah pak tb  saya mahfudz siddiq ingin menyambung  mahfudz siddiq  pimpinan   Other
+1025 kursi paling belakang   Other
+1026 ketua rapat   Other
+1027  baik  sebentar  sebentar    Other
+1028 terima kasih  pak tubagus    Other
+1029 sebentar  terima kasih    Other
+1030 interupsi f pdip  tb  hasanuddin  s e   m m     Other
+1031  saya menutup dahulu dengan    Other
+1032 wassalamu alaikum warahmatullahi wabarakaatuh   Other
+1033 ketua rapat   Other
+1034  pak tubagus hasanuddin  terima kasih   Other
+1035 sebentar  sebentar  ini nanti memang jamnya untuk minta waktu pendapat dari seluruh anggota   Other
+1036 tapi tadi kita dengarkan dengan seksama pendapat dan pandangan dari pak tubagus hasanuddin   Other
+1037 karena background beliau juga dari militer dahulu  maka ini sangat berarti untuk mematangkan ini  Other
+1038 semua  meskipun dengan hormat kita tetap menghormati proses yang sudah berlangsung    Other
+1039 saya persilakan sekarang  tadi saya dengar pak mahfudz siddiq  kalau tidak salah jabatannya  Other
+1040 masih ketua komisi i  silakan  pak machfudz siddiq dahulu   Statement
+1041 f pks  drs  mahfudz siddiq  m si     Other
+1042  ya  di paling belakang sekali  sebelah kanan  pimpinan   Other
+1043 ketua rapat   Other
+1044  cuma saya tidak lihat beliau  di mana ini posisi    Other
+1045 f pks  drs  mahfudz siddiq  m si     Other
+1046  kelihatan tidak penting  yang penting suaranya terdengar  pimpinan    Other
+1047 ketua rapat   Other
+1048  ya  silakan  saya dengar suara  tidak lihat orangnya  silakan   Other
+1049 f pks  drs  mahfudz siddiq  m si     Other
+1050  baik  terima kasih    Other
+1051 assalamu alaikum warahmatullahi wabarakaatuh    Other
+1052 pimpinan yang terhormat  serta  Other
+1053 bapak ibu anggota komisi i yang terhormat   Other
+1054 saya ingin menyambung apa yang disampaikan oleh pak tubagus hasanuddin bukan karena  Other
+1055 sama sama setuju bbm tidak naik  tapi karena punya pandangan yang sama saja persoalan ini    Other
+1056 pimpinan dan bapak ibu anggota yang terhormat    Other
+1057 saya sangat menghargai seluruh proses yang sudah dilakukan oleh pansus untuk membahas  Other
+1058 rancangan undang undang penanganan konflik sosial ini atau yang disingkat dengan pks  tetapi  Other
+1059 dalam forum paripurna ini tentu saja setiap anggota punya hak untuk menyampaikan pandangan    Other
+1060 menambahkan apa yang disampaikan oleh pak tubagus hasanuddin  saya sendiri melihat ada  Other
+1061 sejumlah hal yang kontradiktif satu pasal dengan pasal yang lain dan bahkan hal hal yang justru  Other
+1062 bertabrakan antara satu undang undang dengan undang undang yang lain  kalau kita lihat misalnya  Statement
+1063 saya ambil satu contoh  yang pertama  di dalam ruu ini ada satu status yang disebut status keadaan  Other
+1064 konflik  ini satu terminologi baru yang mungkin saja dimunculkan dan diatur dalam undang undang ini  Statement
+1065 atau ruu ini  tetapi ini adalah satu terminologi baru yang tidak ada dalam undang undang yang lain   Statement
+1066 saya ambil contoh misalnya begini  di dalam rancangan undang undang keamanan nasional yang  Statement
+1067 namanya status itu tidak ada status keadaan konflik  dimulai dari tertib sipil  darurat sipil  darurat militer  Statement
+1068 dan keadaan perang  ini ada status baru  bagaimana sinkronisasinya  ini satu persoalan  karena satu  Other
+1069 status nanti membawa implikasi implikasi sistemik pada persoalan persoalan  baik kebijakan maupun  Other
+1070 operasionalnya  itu satu    Other
+1071 yang kedua  tadi sudah disampaikan oleh pak tb paradoks dengan undang undang tni  saya  Statement
+1072 ingin mengambil yang lain dan ini cukup mendasar yaitu pada pasal 35  pada ayat  2  dikatakan  Other
+1073 bahwa     ketentuan lebih lanjut mengenai pengerahan dan penggunaan kekuatan tni sebagaimana  Other
+1074 dimaksud pada ayat  1  diatur dengan peraturan bersama kapolri dan panglima tni       Other
+1075 bapak ibu sekalian   Other
+1076 saya ingin mengajak kita untuk menyegarkan ingatan  reformasi  tahun 1998 telah menempatkan  Statement
+1077 supremasi sipil sebagai perspektif besar didalam membangun indonesia yang demokratis  supremasi  Other
+1078 sipil inilah yang kemudian melahirkan undang undang tni dimana tni lalu kemudian ditempatkan  Statement
+1079 secara organisasi tunduk di bawah satu kementerian yang dipimpin oleh sipil  yang semestinya polri  Statement
+1080 juga begitu  tapi belum kesampaian sampai sekarang  kalau kita konsisten dengan prinsip supremasi  Other
+1081 sipil  maka semestinya pengaturan terhadap kebijakan pengerahan instrumen tni sebagai alat negara  Other
+1082 sebagaimana juga instrumen polri itu harus tunduk di bawah supremasi sipil  sehingga peraturan itu  Other
+1083 haruslah di level menteri  menteri pertahanan mewakili tni yang membawahi tni dan menteri satu lagi  Other
+1084 dalam hal ini yang membidangi kepolisian  kalau peraturan ini diserahkan kepada instrumen kepada  Other
+1085 alat negara di bidang hankam  ini berarti telah mengesampingkan prinsip supremasi sipil  jadi ada hal hal  Other
+1086 mendasar yang menyangkut amanat reformasi dan juga sesuatu yang sudah berjalan dalam reformasi  Other
+1087 undang undang kita yang ini seperti di balik kembali jarum sejarahnya oleh rancangan undang undang ini   Statement
+1088 jadi menurut saya ini ada hal hal yang sangat krusial  substansial  tapi saling paradoks satu dengan  Other
+1089 yang lain  oleh karena itu secara pribadi dengah hak konstitusional saya sebagai dpr ri  saya  Other
+1090 meminta agar ruu ini ditunda pengesahannya untuk didalami lebih lanjut   Statement
+1091 terima kasih  pimpinan   Other
+1092 interupsi f pd  ir  hj  a p a  timo pangerang    Statement
+1093  interupsi  pimpinan    Other
+1094 andi timo  a 551    Other
+1095 ketua rapat   Other
+1096  baik  sebentar  nanti saya beri waktu  ibu  sebentar   Other
+1097 saudara saudara sekalian   Other
+1098 kalau kita dengar dari pak tubagus hasanuddin maupun pak machfudz siddiq  ini persoalan  Other
+1099 menjadi agak serius kalau itu soalnya  namun demikian saya ingin persilakan dahulu  tadi ada yang  Other
+1100 interupsi  dari ibu ibu dahulu  suaranya ibu ibu tadi mana    Other
+1101 interupsi f pd  ir  hj  a p a  timo pangerang    Statement
+1102  ya  pimpinan  andi timo  a 551   Statement
+1103 ketua rapat   Other
+1104 ya  silakan kalau memang persoalan itu tadi agaknya perlu perenungan sebentar kita kalau  Other
+1105 persoalan yang tadi disebut  namun demikian saya persilakan kepada ibu  dipersilakan    Other
+1106 f pd  ir  hj  a p a  timo pangerang    Statement
+1107  baik  terima kasih  pimpinan   Other
+1108  juga masih menyangkut tentang rancangan undang undang penanganan konflik   Statement
+1109 ketua rapat   Other
+1110  mohon disebutkan namanya  ibu  di mana tempatnya   Other
+1111 f pd  ir  hj  a p a  timo pangerang    Statement
+1112  a 551  andi timo  pimpinan    Statement
+1113 ketua rapat   Other
+1114  di belakang  silakan   Other
+1115 f pd  ir  hj  a p a  timo pangerang    Statement
+1116  baik  pertama  saya ingin apresiasi terhadap pansus dan anggotanya yang memasukkan  Other
+1117 keterwakilan perempuan 30  pada anggota satuan tugas penyelesaian konflik  dimana tertera pada  Statement
+1118 pasal 48  49 dan 50  juga pada pasal 39 ayat  2h  memperhatikan pemenuhan kebutuhan pelayanan  Other
+1119 kesehatan reproduksi bagi kelompok perempuan dalam penanganan rehabilitasi  ini kami apresiasi  Other
+1120 sebesar besarnya yang dimasukkan pada ruu pks ini    Other
+1121 namun pimpinan  kami juga ingin menanyakan kepada pimpinan pansus beserta anggota yaitu  Statement
+1122 pada rancangan undang undang ini terdapat kalimat yang berulang ulang yaitu forum koordinasi  Statement
+1123 pimpinan daerah kabupaten kota dan forum koordinasi pimpinan daerah provinsi  dimana ditera  Statement
+1124 pada pasal 17  19  24  47 dan lain lain  ketika kami melihat pada ketentuan umum  kami tidak melihat  Other
+1125 definisi batasan tentang forum koordinasi pimpinan daerah ini  pertanyaan kepada pimpinan pansus  Statement
+1126 dan anggota  apakah memang tidak perlu dimasukkan pada ketentuan umum forum koordinasi  Other
+1127 pimpinan daerah ini   Other
+1128  terima kasih  pimpinan   Other
+1129 ketua rapat   Other
+1130  baik  ibu andi timo  rupanya sangat saya kenal beliau ini  tadi perspektif perempuan dan beliau  Other
+1131 juga ketua forum gerakan perempuan apa begitu    Other
+1132  silakan  ada lagi       Other
+1133 interupsi f ppp  achmad dimyati n   s h   m h   m si     Other
+1134  dimyati  pimpinan    Other
+1135 ketua rapat   Other
+1136  silakan   Other
+1137 interupsi f                   Other
+1138 pimpinan  di sebelah kiri pimpinan   Other
+1139 interupsi f ppp  achmad dimyati n   s h   m h   m si     Other
+1140  ppp  pimpinan    Other
+1141 ketua rapat   Other
+1142  ya  boleh  silakan    Other
+1143 f ppp  achmad dimyati n   s h   m h   m si     Other
+1144  terima kasih  ketua   Other
+1145 assalamu   alaikum warahmatullahi wabarakaatuh   Other
+1146 selamat siang  salam sejahtera bagi kita semua    Other
+1147  apa yang disampaikan ibu yang tadi itu betul  pimpinan    Other
+1148 ketua rapat   Other
+1149  tolong agak keras   Other
+1150 f ppp  achmad dimyati n   s h   m h   m si     Other
+1151  di pasal 34     Other
+1152 ketua rapat   Other
+1153  siapa ini ya   Other
+1154 f ppp  achmad dimyati n   s h   m h   m si     Other
+1155  di dalam pasal 34 itu juga membingungkan  pimpinan  di sana pengerahan dan penggunaan  Statement
+1156 kekuatan tni  saya menyarankan memang undang undang ini di pending dahulu  karena banyak yang  Statement
+1157 tidak sinkron  di sana diterapkan     dalam status keadaan konflik skala kabupaten kota  bupati atau  Statement
+1158 walikota berwenang meminta pengerahan dan penggunaan kekuatan tni melalui forum koordinasi  Other
+1159 pimpinan daerah kabupaten kota     forum koordinasi pimpinan daerah kabupaten kota itu  Statement
+1160 nomenklatur dari organisasi apa  karena dalam undang undang kita tidak mengenal forum forum  Statement
+1161 tersebut    Other
+1162 oleh sebab itu apabila diterapkan  disinkronkan  harusnya diterapkan saja di sana harus melalui  Other
+1163 koordinasi dengan tni  polri atau bupati atau kejaksaan dan lain sebagainya  jadi tidak dikenal forum   Other
+1164 apabila ada memang undang undang yang membuat forum koordinasi tersebut tidak menjadi  Statement
+1165 masalah    Other
+1166 demikian  pimpinan    Other
+1167 ketua rapat   Other
+1168  baik   Other
+1169 f ppp  achmad dimyati n   s h   m h   m si     Other
+1170 jadi saya berharap penerapan konsepsi undang undang ini sesuai dengan konstitusi kita    Statement
+1171 terima kasih  pimpinan     Other
+1172 ketua rapat   Other
+1173  pak dimyati natakusuma  terima kasih    Other
+1174  memperkuat tadi yang disampaikan oleh pak tubagus maupun pak mahfudz siddiq    Other
+1175 interupsi f pdip  drs  yoseph umar hadi  m si     Statement
+1176  sebelah tengah  pimpinan   Other
+1177 ketua rapat   Other
+1178  baik  saya persilakan  saya lihat pak yoseph di sini   Other
+1179 f pdip  drs  yoseph umar hadi  m si     Statement
+1180  ya  betul   Other
+1181 ketua rapat   Other
+1182  silakan  yoseph umar hadi    Other
+1183 f pdip  drs  yoseph umar hadi  m si     Statement
+1184  terima kasih  pak pimpinan   Other
+1185  nama yoseph umar hadi  nomor a 348   Other
+1186 assalamu   alaikum warahmatullahi wabarakaatuh   Other
+1187 selamat siang dan salam sejahtera bagi kita sekalian   Other
+1188  jadi saya juga menyambut baik hadirnya rancangan undang undang pks ini  pimpinan  namun  Statement
+1189 tentu kita mengharapkan bahwa undang undang ini harus benar benar nantinya tidak menimbulkan  Statement
+1190 suatu persoalan sebagaimana tadi disampaikan oleh rekan rekan terdahulu  jadi kecuali pasal 34  Other
+1191 yang tadi telah disampaikan oleh kedua rekan kita yang terhormat  saya juga ingin mengangkat satu  Other
+1192 pasal yang kiranya tidak terlalu lazim itu dimuat di situ  terutama pasal 2  dimana di sana disebutkan  Other
+1193 bahwa     Other
+1194 ketua rapat   Other
+1195  pasal berapa  pak   Other
+1196 f pdip  drs  yoseph umar hadi  m si     Statement
+1197  pasal 2 bab ii     penanganan konflik berlandaskan pancasila dan undang undang dasar  Statement
+1198 negara republik indonesia tahun 1945     memang ini tidak salah dan memang seharusnya demikian   Statement
+1199 namun penempatan pancasila dan undang undang dasar 1945 di dalam satu pasal  ini pengalaman  Statement
+1200 kita semua didalam menyusun suatu undang undang  rasanya tidak terlalu lazim  karena pancasila  Statement
+1201 dan undang undang dasar 1945 itu merupakan landasan baku yang tidak bisa tidak seluruh  Statement
+1202 undang undang kita itu harus berlandaskan pancasila dan undang undang dasar 1945  jadi tidak  Statement
+1203 ditempatkan dalam satu pasal demikian ini  ini sedikit banyak    sedikit agak mengecilkan    peran  Other
+1204 daripada konstitusi dan landasan filosofi kita ini  oleh karenanya saya kira ini perlu dicermati juga   Other
+1205 apabila nanti disempurnakan  ini menjadi satu pasal yang perlu dicermati atau dikoreksi kembali   Other
+1206 jangan sampai merendahkan atau sedikit mengecilkan peran daripada landasan konstitusi kita ini   Other
+1207 ketua rapat   Other
+1208  baik   Other
+1209 f pdip  drs  yoseph umar hadi  m si     Statement
+1210  terima kasih  pimpinan    Other
+1211 wassalamu   alaikum warahmatullahi wabarakaatuh   Other
+1212 ketua rapat   Other
+1213  baik  terima kasih  cukup dahulu    Other
+1214 saudara saudara sekalian   Other
+1215  saya ingin memberitahu     Other
+1216 interupsi f                   Other
+1217  interupsi  pimpinan    Other
+1218 ketua rapat   Other
+1219  dengan segala hormat terhadap berbagai interupsi tadi  dari meja pimpinan saya menyampaikan  Statement
+1220 bahwa mengenai pasal 34 dan 35 memang substansinya ini luar biasa  oleh karena itu supaya kita  Other
+1221 mendapat perspektif  meskipun tidak lazim  saya mempersilakan pimpinan pansus untuk sedikit  Statement
+1222 memberikan umpan balik mengenai ini  karena substansinya agak berat sedikit  saya ingin  Other
+1223 memberitahukan bahwa ruu keamanan nasional yang kemarin sudah diberikan tugas kepada  Other
+1224 pansus yang baru  sudah mengirim surat kepada pimpinan dpr ri agar rancangan undang undang  Statement
+1225 tentang keamanan nasional pun dikembalikan kepada presiden kembali    Other
+1226 jadi melihat bobotnya  ini kita mintakan kepada pimpinan pansus  pak adang tadi  untuk  Statement
+1227 menjelaskan perspektif dari 2  dua  pasal tersebut    Other
+1228  saya persilakan    Other
+1229 interupsi f pdip  drs  sidarto danusubroto  s h     Statement
+1230  sebelum pak adang  apakah boleh saya menambahkan  pak   Other
+1231 ketua rapat   Other
+1232  ini siapa ini  maaf  pak darto    Other
+1233 interupsi f pdip  drs  sidarto danusubroto  s h     Statement
+1234  ya   Other
+1235 ketua rapat   Other
+1236  saya persilakan  pak sidarto  silakan   Other
+1237 f pdip  drs  sidarto danusubroto  s h     Statement
+1238 saudara ketua dan para anggota   Other
+1239 assalamu   alaikum warahmatullahi wabarakaatuh   Other
+1240  saya baru menerima ruu ini pagi ini  setelah membaca beberapa pasal memang ada beberapa  Other
+1241 pasal yang sedikit bermasalah  undang undang ini  ruu ini berisiko berbenturan dengan 3  tiga   Statement
+1242 undang undang yang sudah ada yaitu undang undang nomor 34 tahun 2004 mengenai  Statement
+1243 tentara nasional indonesia  undang undang nomor 32 mengenai otonomi daerah dan  Statement
+1244 undang undang nomor 23 tahun 1959 mengenai keadaan darurat keadaan bahaya    Statement
+1245  mengenai undang undang nomor 34 tni itu disebutkan seperti yang disampaikan oleh saudara  Statement
+1246 tb  hasanuddin bahwa pelibatan tni itu adalah wewenang daripada presiden dengan persetujuan  Other
+1247 daripada dpr  itu betul    Other
+1248  lalu mengenai undang undang otonomi daerah tingkat ii  itu ada 6  enam  wilayah domain  Statement
+1249 pusat yang tidak bisa di daerahkan yaitu adalah pertahanan  keamanan  fiskal  luar negeri dan  Other
+1250 moneter  keenam hal ini tidak bisa didaerahkan  tidak bisa diotonomi daerahkan  itu adalah domain  Other
+1251 pusat    Other
+1252  lalu yang ketiga  undang undang nomor 23 tahun 1959 mengenai keadaan bahaya  di situ  Statement
+1253 diatur mengenai keadaan darurat sipil  darurat perang dan keadaan perang  kondisi konflik sosial ini  Statement
+1254 tidak terwadahi di dalam undang undang nomor 23 tahun 1959  ini adalah hal yang baru di sini  jadi  Statement
+1255 supaya tidak berbenturan dengan undang undang terdahulu  supaya pansus ke depan untuk lebih  Statement
+1256 hati hati didalam penyusunan undang undang semacam ini untuk nanti tidak dibawa ke mahkamah konstitusi  Statement
+1257 ataupun ke mahkamah agung dalam hal berbenturan dengan undang undang yang sudah ada   Statement
+1258  terima kasih  saudara ketua   Other
+1259  untuk melengkapi sebelum dijawab oleh saudara adang daradjatun    Statement
+1260 wassalamu   alaikum warahmatullahi wabarakaatuh   Other
+1261 ketua rapat   Other
+1262 wa   alaikumsalam   Other
+1263  baik   Other
+1264 interupsi f                   Other
+1265  interupsi  pimpinan    Other
+1266 ketua rapat   Other
+1267 saudara saudara sekalian   Other
+1268  sebelum interupsi selanjutnya  bagaimana kalau saya tawarkan pimpinan pansus untuk  Statement
+1269 menjelaskan ini  karena agak substansial pasal ini    Other
+1270 interupsi f pg  muhammad oheo sinapoy  s e   m b a     Other
+1271  sebentar  pimpinan    Other
+1272 ketua rapat   Other
+1273  masih ada satu lagi  baik  saya persilakan satu lagi    Other
+1274 interupsi f pg  muhammad oheo sinapoy  s e   m b a     Other
+1275  oheo sinapoy  pimpinan   Other
+1276 ketua rapat   Other
+1277  oheo sinapoy  silakan    Other
+1278 f pg  muhammad oheo sinapoy  s e   m b a     Other
+1279  terima kasih  pimpinan    Other
+1280  tanpa mengurangi rasa hormat saya kepada kawan kawan fraksi partai golkar yang berada di  Other
+1281 dalam pansus tersebut  saya hanya ingin mempertanyakan dan saya mengajak untuk memikirkan  Statement
+1282 kembali keterlibatan gubernur dan bupati didalam mengambil status konflik tersebut   Statement
+1283 ketua rapat   Other
+1284  ya  yang tadi disampaikan    Other
+1285 f pg  muhammad oheo sinapoy  s e   m b a     Other
+1286  saya takutkan ke depan nanti  karena wilayah konflik ini adalah wilayah yang tidak bisa kita  Other
+1287 samakan dengan wilayah kebencanaan misalkan yang terjadi begitu saja  tetapi ini adalah wilayah  Other
+1288 yang tiba tiba muncul dari beberapa pertikaian dari pribadi ataupun kelompok  kita tidak tahu seberapa  Other
+1289 kuat kekuatan daripada gubernur dan bupati itu dari informasi informasi intelijen yang terdapat   Other
+1290 sehingga dengan begitu mudah status keadaan konflik ini diambil    Statement
+1291  kedua  secara politik saya pikir kita harus juga mempertimbangkan kembali keterlibatan daripada  Other
+1292 gubernur dan bupati dalam hal ini  karena dengan begini kita serta merta menghilangkan daripada  Other
+1293 kekuasaan polisi dan tentara tersebut didalam mengantisipasi suasana yang berkaitan dengan  Other
+1294 keamanan  yang berkaitan dengan informasi informasi intelijen  jadi pimpinan  saya usulkan untuk  Statement
+1295 memikirkan kembali keterlibatan daripada kedua institusi gubernur dan bupati itu didalam mengambil  Other
+1296 status keadaan konflik tersebut    Other
+1297  terima kasih  pimpinan   Other
+1298 interupsi f pg  ir  a  edwin kawilarang    Statement
+1299  pimpinan     Other
+1300 ketua rapat   Other
+1301  baik  memperkuat yang tadi disampaikan sebelumnya    Other
+1302 interupsi f pg  ir  a  edwin kawilarang    Statement
+1303  boleh sumbang saran  edwin kawilarang  a 274   Other
+1304 ketua rapat   Other
+1305  silakan  monggo  pak edwin kawilarang    Other
+1306 f pg  ir  a  edwin kawilarang    Statement
+1307 terima kasih  pimpinan   Other
+1308 rekan rekan sekalian yang saya hormati   Other
+1309  saya ingin sumbang saran terhadap apa yang disampaikan oleh pak tubagus hasanuddin  pasal  Other
+1310 34 ayat  1  dan ayat  2   walaupun saya bukan anggota pansus  saya membaca ini barusan saja dan  Other
+1311 saya melihat bahwa kata kuncinya adalah kata meminta  jadi tidak ada kewenangan bupati  walikota  Other
+1312 maupun gubernur untuk mengerahkan tni    Other
+1313 ketua rapat   Other
+1314  ya   Other
+1315 f pg  ir  a  edwin kawilarang    Statement
+1316  kata kuncinya adalah meminta  meminta pengerahan  jadi proses selanjutnya adalah di tni dan  Other
+1317 di polri    Other
+1318  itu saja sumbang saran dari saya   Other
+1319  terima kasih   Other
+1320 ketua rapat   Other
+1321  baik   Other
+1322 interupsi f pdip  dr  ir  arif budimanta  m sc     Statement
+1323  belakang  ketua   Other
+1324 ketua rapat   Other
+1325  silakan    Other
+1326 interupsi f pdip  dr  ir  arif budimanta  m sc     Statement
+1327  arif budimanta  a 341   Other
+1328 ketua rapat   Other
+1329  pak arif budimanta  silakan   Other
+1330 f pdip  dr  ir  arif budimanta  m sc     Statement
+1331  kami menyambut baik gagasan dan hasil kerja teman teman terhadap rancangan undang undang  Statement
+1332 penanganan konflik sosial ini  tetapi ada hal yang memang secara khusus kita masih membutuhkan  Statement
+1333 penjelasan yang lebih dalam  khususnya mengenai bab viii tentang pendanaan  pendanaan ini diatur  Other
+1334 oleh sejumlah pasal mulai dari pasal 54 sampai dengan pasal 59   Other
+1335 menurut kami ada beberapa hal yang kontradiktif mengenai mekanisme pendanaan ini  yang  Other
+1336 pertama pendanaan penanganan  kemudian yang kedua pendanaan penghentian konflik dan  Statement
+1337 rekonsiliasi pasca konflik yang dimana dalam hal ini harus ada disiapkan ataupun direncanakan di  Statement
+1338 dalam apbn ataupun apbd  kita tahu bahwa konflik ini datangnya tidak terduga dan seringkali juga  Statement
+1339 bersifat ad hoc begitu  di sini tidak dijelaskan atau kita juga tidak mengalami suatu pemahaman  Other
+1340 bagaimana mekanisme perencanaan penganggaran agar ini kemudian dialokasikan dalam apbn  Other
+1341 ataupun apbd  ketua  itu yang pertama   Other
+1342  kemudian yang kedua  kalau kemudian dikatakan di sini itu diambil dari dana siap pakai pada  Other
+1343 apbn ataupun dana belanja tidak terduga pada apbd  apakah dengan adanya undang undang ini  Statement
+1344 maka kemudian tidak memungkinkan terjadinya peningkatan dana yang sifatnya tidak terduga ataupun  Other
+1345 siap pakai itu ataupun dana jaga jaga  kita ini jaga jaga terus  ada konflik atau tidak  sehingga  Statement
+1346 kemudian dananya diminta untuk ditambahkan  biasanya bukan dikurangi  tetapi ditambahkan  hal hal  Statement
+1347 yang seperti ini menurut saya harus menjadi perhatian kita  karena kemudian pada akhirnya akan  Other
+1348 menambah beban anggaran  ketua    Other
+1349 ketua rapat   Other
+1350  ya  baik   Other
+1351 f pdip  dr  ir  arif budimanta  m sc     Statement
+1352  saya rasa itu saja   Other
+1353  terima kasih    Other
+1354 ketua rapat   Other
+1355  baik  saya kembali ke masalah tadi  saudara saudara sekalian  karena ada masalah substansial    Other
+1356 kita persilakan kesempatan langsung saja pimpinan pansus  pak adang atau wakil pimpinan pansus   Statement
+1357 untuk menyampaikan perspektif  terutama pasal yang berkaitan dengan 34 dan 35 tentang walikota  Statement
+1358 dan gubernur tadi    Other
+1359 silakan  pak adang    Other
+1360 pimpinan pansus  drs  h  adang daradjatun    Statement
+1361  terima kasih  pimpinan   Other
+1362 ketua rapat   Other
+1363  ya  silakan   Other
+1364 pimpinan pansus  drs  h  adang daradjatun    Statement
+1365  memang dalam proses pada saat pembuatan ruu ini  masalah masalah ini sudah didiskusikan  Other
+1366 dengan kementerian dalam negeri  memang dalam konteks masalah yang berhubungan dengan  Other
+1367 status keadaan bahaya mulai dari darurat sipil  militer dan perang  dalam naskah akademis  terutama  Other
+1368 kita berpegang kepada naskah akademis  bahwa ruu ini lebih lex specialis  dalam arti bahwa  Other
+1369 kondisinya adalah betul betul di luar dalam konteks perpu 23  itu yang pertama    Other
+1370 lalu yang berhubungan dengan masalah bahwa tni dapat digerakkan atas perintah presiden   Other
+1371 dari teman kami  pansus  dapat memberikan penjelasan tambahan    Other
+1372 ketua rapat   Other
+1373  silakan  yang menjelaskan pak tri tamtomo ini  silakan  pak tri   Other
+1374 f pdip  h  tri tamtomo  s h     Other
+1375  terima kasih  pimpinan   Other
+1376 yang saya hormati rekan rekan yang kami banggakan   Other
+1377 assalamu   alaikum warahmatullahi wabarakaatuh   Other
+1378  kami izin menambahkan dari apa yang disampaikan oleh ketua pansus  di sini yang menjadi  Statement
+1379 masalah krusial kita merujuk kepada pasal 34  kemudian di break down kepada pasal 35 yaitu  Other
+1380 pengerahan dan penggunaan kekuatan tni  tolong di sini kita melihat kepada undang undang dasar 1945   Statement
+1381    dalam hal menyatakan perang dan damai dengan negara lain     di sini adalah kewajiban presiden  Other
+1382 untuk melakukan pengerahan kepada kekuatan tni dalam rangka dua hal tadi  namun demikian kalau  Statement
+1383 waktunya singkat beliau menyatakan pengerahan  kemudian kewajibannya 2  dua  hari setelah itu   Other
+1384 menyampaikan ini sebagai pertanggungjawaban di depan forum dpr    Other
+1385 kemudian kita ingat bahwa bentuk dan sifat ancaman saat ini  baik tradisional maupun non  Other
+1386 tradisional  oleh karena itu kita merujuk kepada undang undang nomor 34 tentang tni  ada yang tadi  Statement
+1387 disampaikan omp dan omsp  14  empat belas  item  di situ tni berkewajiban memberikan bantuan  Other
+1388 kepada pemerintah daerah    Other
+1389 begitu juga undang undang nomor 2 tahun 2002 tentang polri  polri berkewajiban memberikan  Statement
+1390 bantuan dukungan kepada pemerintah daerah  tinggal sekarang kita lihat bentuk bantuan itu sifatnya  Other
+1391 teknis  taktis  hukum administrasi dan kekuatan    Other
+1392 kemudian kita melihat kepada undang undang nomor 32 tahun 2004 tentang pemerintah daerah   Statement
+1393 kemudian kita coba lihat  kita break down kepada ppri nomor 19 dan nomor 23 tahun 2010 yaitu  Statement
+1394 tentang peran gubernur selaku pemerintah yang mewakili di daerah  kemudian yang mengatur tentang  Other
+1395 keuangan di daerah    Other
+1396 berangkat dari situ  gubernur adalah mewakili pemerintah pusat di daerah  kemudian dia  Other
+1397 berkewajiban untuk menyatakan tentang situasi kondisi di daerahnya  apakah itu tertib sipil  darurat  Statement
+1398 sipil sampai dengan berlanjut  karena di situ ada penanganan yang sifatnya fungsional  terpadu dan  Other
+1399 khusus  sedangkan yang dibahas di dalam ruu pks ini yang terkait dengan masalah tipil menjelang  Other
+1400 masuk ke darpil  di sini  pada saat kondisi aman  rawan  gawat  tentu eskalasi ini penanganannya  Other
+1401 mana gubernur di depan sampai dengan kabupaten kota  mana kepolisian dari polres sampai dengan  Other
+1402 tingkat polda  sampai dengan kapolri  kapan tni ada  tentu ini ada eskalasinya  aman  rawan  gawat   Other
+1403 ini telah dibagi di dalam prp 23  kemudian menjadi ppri nomor 16 tahun 1960  di situ dinyatakan  Statement
+1404 tentang pelaksanaan permintaan bantuan kekuatan militer  tentu di sini kalau kita melihat dari  Other
+1405 undang undang nomor 32 tentang pemda  hal yang disampaikan oleh ketua pansus tadi relevan   Statement
+1406 makanya dari 34 yang di break down tadi menjadi 35 tentang penangan tadi secara berturut turut pada  Other
+1407 kondisi kondisi tertentu  karena pemda tidak punya kemampuan  keterbatasan personil dan lain  Other
+1408 sebagainya secara bertahap  bertingkat  berlanjut rencana kodalnya memang yang nanti disampaikan  Other
+1409 di sini  pak  rencana kontingensi sampai dengan protap  sampai dengan alih kodal akan diatur  Other
+1410 kemudian bersama dengan kapolri dengan panglima tni  di sini kita harus lihat secara jernih    Other
+1411  oleh karena itu kami sarankan kepada pimpinan  tolong dibaca keseluruhan undang undang yang  Statement
+1412 ada secara arif  bijak dan tidak emosional  karena apa yang kita keluarkan di sini adalah dalam rangka  Other
+1413 bagaimana satu untuk semua  semua untuk satu  dalam rangka bukan ruu pks ini kita  Statement
+1414 mengangkangi pnpb  bnpt  bukan  tapi dalam rangka spesifik yang tadi kami sampaikan sifat dan  Other
+1415 bentuk ancaman tradisional dan non trad  ini dalam rangka menghadapi ancaman non trad    Other
+1416 demikian  selesai    Other
+1417 terima kasih  pak    Other
+1418 ketua rapat   Other
+1419  baik   penje lasan dar i  p impinan pansus tad i  sengaja saya menyampaikan o leh  Other
+1420 pak adang daradjatun maupun pak tri tamtomo  yang kedua  beliau juga reputasinya sudah kita  Other
+1421 sama sama tahu  adalah tetap mempertahankan esensi  karena sudah dianggap pembahasan di  Other
+1422 pansus matang  begitu ya  pak  baik    Other
+1423 saudara saudara sekalian    Other
+1424  sekarang izinkanlah saya menanyakan  tadi ada perspektif yang    tapi sudah ada penjelasan ini  Other
+1425 dan semua kita  saya sarankan untuk menghormati pansus yang sudah matang ini  kalau itu  Statement
+1426 diperkenankan  saya ingin menanyakan kepada fraksi fraksi sesuai dengan mekanisme  apakah ini kita  Other
+1427 bisa lanjutkan untuk disetujui atau tadi ada 2  dua  pasal yang masih terulang  terganjal  tapi sudah  Statement
+1428 dijelaskan dengan sangat baik oleh pimpinan pansus  saya tanyakan mulai dari fraksi partai demokrat  masih  Statement
+1429 ada yang anggota  silakan  saya persilakan  silakan  yang kiri    Other
+1430 f pan  prof  dr  ismet ahmad    Other
+1431 yang saya hormati ketua bapak pimpinan sidang    Statement
+1432 saudara saudara para anggota dpr ri yang saya hormati    Other
+1433 ketua rapat   Other
+1434  mohon berkenan menyebutkan nama dan fraksi    Other
+1435 f pan  prof  dr  ismet ahmad    Other
+1436  saya ismet ahmad dari pan    Other
+1437 ketua rapat   Other
+1438  pak ahmad ya  kacamata saya semakin tebal saja ini  silakan   Other
+1439 f pan  prof  dr  ismet ahmad    Other
+1440  tadi sudah dijelaskan oleh teman teman  antara lain adalah pak tubagus hasanuddin dan yang  Other
+1441 lainnya  juga dijawab oleh ketua    Other
+1442 ketua rapat   Other
+1443  prof  mohon agak dekat  tidak kedengaran di sini    Other
+1444 f pan  prof  dr  ismet ahmad    Other
+1445  saya menganggap bahwa konflik di daerah itu kalau antar sesama warga daerah  itu saya kira  Statement
+1446 tidak akan menimbulkan eskalasi sampai demikian jauh  sehingga kita menganggap sebagai suatu  Other
+1447 keadaan darurat  katakanlah darurat perang  oleh karena itu saya tetap menganggap bahwa  Other
+1448 keterlibatan ini untuk menangani konflik semacam itu di daerah tidak diperlukan  jadi saya kira saya  Statement
+1449 tetap sependapat dengan pak tubagus hasanuddin dan juga ketua komisi i    Statement
+1450 terima kasih    Other
+1451 ketua rapat   Other
+1452 prof  jadi masih seperti usulan pak hasanuddin maksudnya   Other
+1453 f pan  prof  dr  ismet ahmad    Other
+1454  ya    Other
+1455 ketua rapat   Other
+1456  tadi padahal sudah dijelaskan tadi    Other
+1457 baik  silakan sebelah kiri  tengah tengah  silakan  pak deding ishak    Other
+1458 f pg  dr  h  deding ishak  s h   m m     Other
+1459  terima kasih  ketua    Other
+1460  saya mengusulkan  karena pasal 34 ini menimbulkan kesan berbenturan dengan undang undang   Statement
+1461 karena pada ayat  4  itu hanya dirujuk ayat  3   padahal sebetulnya ayat  1  dan  2  membutuhkan  Other
+1462 rujukan yang sama  artinya semua pelaksanaan dari penanganan konflik sosial dalam keadaan status  Statement
+1463 konflik itu harus dirujuk pada undang undang  sehingga punya dasar kebijakan yang jelas  oleh  Statement
+1464 karenanya usul konkret pada ayat  4      dalam melaksanakan pengerahan sebagaimana dimaksud  Other
+1465 pada ayat  1    2  dan  3   penggunaan kekuatan tni dilaksanakan sesuai dengan ketentuan peraturan  Other
+1466 perundang undangan     jadi pedomannya jelas acuannya  pak ketua    Statement
+1467  terima kasih    Other
+1468 ketua rapat   Other
+1469  baik   Other
+1470  silakan  pak nurdirman munir    Other
+1471 f pg  h  nudirman munir  s h     Other
+1472  terima kasih  pak ketua    Other
+1473  nudirman munir dari fraksi golkar  a 184    Other
+1474  kalau kita mau cari undang undang yang sempurna  saya rasa 5 tahun masa tugas kita di dpr  Statement
+1475 tidak akan pernah  satupun undang undang tidak akan kita selesaikan  apalagi di sini kita multi disiplin  Statement
+1476 ilmu pengetahuan    Other
+1477  kalau saya lihat pertanyaan atau ketidaksependapatan tadi  lebih banyak memang karena  Other
+1478 lex specilais  masalah konflik sosial adalah lex specialist  kalau ini terus menerus diperdebatkan  tidak  Statement
+1479 akan pernah ada habisnya  padahal pendapat mini fraksi sudah disampaikan  itu resmi pendapat  Other
+1480 masing masing fraksi  kalau kita begini terus  saya yakin tidak akan ada yang pernah kita capai    Other
+1481  yang kedua  semua pendapat akan ada bantahannya  sama seperti tadi  ini konflik biasa  antar  Other
+1482 suku atau antar kampung  kita tahu persis konflik di ambon  konflik di aceh  konflik di papua  bahkan  Statement
+1483 konflik antara kabupaten akhirnya memang tni yang turun  akhirnya tanpa undang undang pun tni  Statement
+1484 bergerak    Other
+1485  jadi dalam hal ini kalau ini memang harus ditunda apa boleh buat  tapi untuk masa masa yang  Statement
+1486 akan datang    pendapat mini fraksi adalah sudah pendapat terakhir    Other
+1487  kalau dalam paripurna  apalagi hal hal yang berkaitan dengan bahasa  hal hal yang berkaitan  Other
+1488 dengan multi ilmu pengetahuan kita masing masing yang di tiap tiap pansus  tiap tiap panja  Other
+1489 masing masing berbeda  saya tidak sependapat kalau di setiap paripurna ini selalu harus  Other
+1490 dipermasalahkan  kecuali hal itu memang prinsip  kalau tidak  jangan pernah mimpi prolegnas kita  Other
+1491 akan dapat kita capai  hanya omong kosong saja    Other
+1492  terima kasih  pak ketua    Other
+1493 ketua rapat   Other
+1494  ya  baik   Other
+1495  silakan    Other
+1496 interupsi f                   Other
+1497  terima kasih  pak ketua    Other
+1498  saya mengusulkan    Other
+1499 1  undang undang ini tidak dibahas di paripurna   Statement
+1500 2  karena tidak dibahas di paripurna  tapi ada persoalan persoalan ambilan keputusan  lakukan  Other
+1501 forum lobi sekarang juga    Other
+1502 3  kalaupun ditunda sebelum masa xidang ini berakhir masih ada waktu    Other
+1503 terima kasih    Other
+1504 ketua rapat   Other
+1505  baik   Other
+1506 interupsi f ppp  drs  zaini rahman    Statement
+1507  interupsi  pimpinan    Other
+1508 zaini rahman  pimpinan    Other
+1509 ketua rapat   Other
+1510  silakan silakan    Other
+1511 f ppp  drs  zaini rahman    Statement
+1512  pertama  perlu saya sampaikan bahwa pasal 34 itu tentu tidak kita anggap sebagai hal yang  Other
+1513 sepele  pimpinan  karena ini menyangkut soal yang sangat paradigmatik  saya kira menyangkut  Statement
+1514 pengerahan tentara di dalam satu persoalan yang dianggap konflik    Statement
+1515  pasal 34 ini ada beberapa hal yang saya kira perlu dikaji lebih dalam  pimpinan  pertama  soal  Statement
+1516 istilah status keadaan konflik  ini saya kira kita menghormati proses yang terjadi di pansus  tapi ini  Statement
+1517 menyangkut hal hal yang mendasar  sehingga perlu didiskusikan lebih luas  karena istilah ini tidak  Other
+1518 banyak ditemukan dalam nomenklatur perundang undangan yang terkait    Statement
+1519  yang kedua  seandainya memang substansi pasal 33 ini harus ada  paling tidak itu didudukkan  Other
+1520 pada konteks dan ketentuan perundangan yang berlaku  misal di sini meminta  memintanya ini kan  Statement
+1521 sementara yang punya kewenangan itu sebenarnya adalah presiden dengan pertimbangan dpr   Other
+1522 seandainya di sini dijelaskan meminta kepada presiden dan akhirnya presidenlah yang punya  Other
+1523 kewenangan untuk mengambil keputusan itu  mungkin bisa dikatakan lebih netral  tetapi pasal 34 ayat  1   Statement
+1524 ini tidak ada meminta kepada siapa  seolah olah meminta kepada tentara dan tentara menyetujui dan  Other
+1525 semua terjadi begitu saja    Other
+1526  saya kira kalaupun ada secara substansial ini harus ditempatkan pada konteksnya  pimpinan   Statement
+1527 pun dari itu saya kira tidak bisa kita     karena ini masih dalam perdebatan  saya usul untuk tidak  Other
+1528 diputuskan pada paripurna hari ini untuk kembali dikaji    Statement
+1529 saya kira itu dari saya  pimpinan    Other
+1530 ketua rapat   Other
+1531  baik  saya persilakan kepada      Other
+1532 interupsi f                   Other
+1533  interupsi  pimpinan    Other
+1534 sedikit  pimpinan    Other
+1535 ketua rapat   Other
+1536  baik  begini saudara sekalian  ini tidak akan selesai kalau perdebatannya begini  nanti kalau  Other
+1537 berdebatnya begini nanti akan saya minta lobi tertutup  tetapi saya ingin dengan segala hormat  Other
+1538 konsentrasi pada substansi yang sekitar pasal 34 dan 35  dengan hormat yang lainnya    Other
+1539 untuk itu oke  saya persilakan satu lagi  pak tubagus  silakan    Statement
+1540 f pdip  tb  hasanuddin  s e   m m     Other
+1541  terima kasih  pimpinan    Other
+1542  menurut hemat saya karena ini masalah yang bukan masalah kecil  ada baiknya kita melakukan  Other
+1543 lobi  sebagai contoh begini  saya bertugas 30 tahun di tni  tidak semua wilayah yang disebut dengan  Statement
+1544 kabupaten itu punya pasukan tni  bahwa disana ada kodim  ya  tapi tidak semua  misalnya di  Other
+1545 kampung saya  itu tidak ada kompi  batalion itu tidak ada  ada juga itu milik kostrad  lalu prosedurnya  Other
+1546 seperti apa  ini juga pembuat undang undang harus tahu situasi sesungguhnya di lapangan   Statement
+1547 jadi undang undang ini juga harus nanti kita bisa pakai untuk kepentingan negara    Statement
+1548  kemudian juga begini  bukan berarti tni tidak boleh dipakai apa apa  boleh  tetapi kekuasaan  Other
+1549 tertinggi penggunanya itu adalah presiden republik indonesia dan itu harus dengan dua macam   Other
+1550 kalau untuk perang  harus seizin dpr  kalau untuk non perang itu harus dengan pertimbangan dpr   Statement
+1551 pertimbangan itu menyangkut 4  empat  hal  yang pertama  dalam kondisi seperti apa diperbantukan  Other
+1552 kepada pemerintah daerah atau polisi  kemudian yang kedua  durasinya dan senjata atau alat yang  Other
+1553 mau dipakai  kemudian kewenangan dan batas kewenangannya harus jelas  yang ketiga adalah  Other
+1554 anggarannya dan itu ada di dalam keputusan politik negara  kalau dibaca undang undang tni dan  Statement
+1555 undang undang pertahanan clear  lalu kenapa kita harus membuat undang undang juga yang  Statement
+1556 bertentangan   saya mohon dengan hormat  supaya paham betul situasi di lapangan dan paham apa  Other
+1557 yang kita buat    Other
+1558  terima kasih    Other
+1559 ketua rapat   Other
+1560  baik  terakhir saya persilakan pak adang daradjatun    Other
+1561 f pks  drs  h  adang daradjatun     Statement
+1562  pimpinan  saya hanya ingin mengingatkan  pertama  bahwa proses pembuatan ruu ini berasal  Statement
+1563 dari dpr ri  itu yang pertama  lalu yang kedua  apa apa yang disampaikan oleh teman teman  Other
+1564 terdahulu apabila membaca dengan baik  naskah akademik yang dibuat oleh dpr itu jelas bahwa  Other
+1565 ruu ini lebih bersifat lex specialis  dengan harapan bahwa pranata pranata adat di daerah dengan  Other
+1566 dikoordinasikan oleh pemerintah itu lebih dimunculkan dalam konteks civil society    Other
+1567 menyangkut masalah perbantuan tni  saya rasa tidak bertentangan dengan undang undang tni   Statement
+1568 karena memang di dalam pasal 7 ayat  10  dinyatakan membantu dan masalah keputusan politik  Other
+1569 dalam tingkat pengerahan tni  jelas bahwa pada saat diskusi ini sangat keras sekali masalah pasal  Other
+1570 ini  tetapi setelah dijelaskan tentang maksud dan tujuan dalam konteks payung hukum terhadap  Other
+1571 penanganan konflik dengan membaca kembali naskah akademik yang diberikan  hampir seluruh  Statement
+1572 peserta pansus dan juga pemerintah mengerti bahwa memang undang undang ini lex specilist lebih  Statement
+1573 dalam konteks konflik konflik kecil yang memang dapat berkembang  tetapi sudah ditentukan dalam  Statement
+1574 suatu keputusan pada tingkat forum    Other
+1575 kalau tadi menanyakan tentang forum  itu dalam pp tentang undang undang pemerintahan daerah   Statement
+1576 itu sudah dinyatakan  jadi itu beberapa hal yang harus dapat dimengerti oleh teman teman bahwa  Other
+1577 diskusi apa yang disampaikan oleh teman teman tadi itu sudah    malah tadi malam diskusi yang  Other
+1578 cukup keras terhadap pasal 34 dan 35 ini  kita bertemu dengan menhan  mendagri  menhumkam dan  Other
+1579 juga beberapa staf dari mabes tni  mabes polri  sehingga hal inilah diambil jalan yang paling baik   Other
+1580 yang paling penting bahwa dalam proses akhir pembacaan dari pendapat mini fraksi seluruhnya  Other
+1581 menyetujui ruu ini    Other
+1582 terima kasih    Other
+1583 ketua rapat   Other
+1584  baik  kalau begitu begini  masih banyak sekali yang interupsi   Other
+1585 interupsi f                   Other
+1586  solusi ini  pimpinan    Other
+1587 ketua rapat   Other
+1588  kalau solusi  baik  saya beri waktu lagi  baik  saya beri waktu satu putaran lagi  mulai dari  Other
+1589 pak yahya  terus ke belakang  kemudian terakhir yang di sana    Other
+1590  silakan   Other
+1591 f pd  mayjen tni  purn  yahya sacawiria  s i p   m m     Other
+1592 assalamu alaikum warahmatullahi wabarakaatuh    Other
+1593  saya membantu rekan kami  pak adang daradjatun dan pak tamtomo  bahwa kalau kita memang  Other
+1594 membaca      Other
+1595 ketua rapat   Other
+1596  silakan  sesama tni  mantan  silakan    Other
+1597 f pd  mayjen tni  purn  yahya sacawiria  s i p   m m      Other
+1598  ya  membaca satu undang undang itu alirannya adalah mulai dari itu naskah akademik  terus  Statement
+1599 mengalir  kaitannya dengan yang tadi disampaikan  semua dasar hukumnya itu sudah diwadahi  baik  Other
+1600 itu undang undang tahun 1960  juga ada bahaya  undang undang tentang tni maupun tentang  Statement
+1601 undang undang tentang polri  naskah akademik juga mencantumkan di situ status status atau  Statement
+1602 strata strata atau tingkatan tingkatan bahwa tingkatan ini adalah pada saat tertib sipil sampai dengan  Other
+1603 posisi darurat sipil  sehingga supremasi sipil itu tetap masih berada dalam posisi di atas  berbeda  Other
+1604 dengan kalau sudah mulai darurat perang  maka kewenangan  semi kewenangan  kalau ada suatu  Other
+1605 konflik itu tetap penanggungjawab utama adalah kepala daerah yang diberikan mandat politik oleh  Statement
+1606 rakyat  kepala daerah kabupaten kota sampai dengan provinsi  sampai nanti naik ke atas kepada  Other
+1607 presiden  sedangkan unsur unsur di lapangan itu adalah sebagai pelaksana keamanan  baik itu  Other
+1608 kepolisian maupun dengan tni  apa yang dipermasalahkan mengenai pasal 34  itu sebetulnya pasal 34 itu  Other
+1609 satu mata rantai dengan pasal 35  tidak bisa dipecah pecah alirannya  di sini memang seperti rekan  Other
+1610 kami mengatakan lex specialis  atau keadaan keadaan khusus  itu perbantuan perbantuan tersebut  di  Other
+1611 sini juga tidak serta merta kemungkinan di situ misalnya ada komandan kodim  kemudian langsung  Other
+1612 komandan kodim mengarahkan  tetap dia melalui mekanisme mengalir ke atas  maka di dalam pasal  Other
+1613 35 pun tetap dicantumkan dilaksanakan atau kekuatan sebagai dimaksud dengan ayat peraturan  Other
+1614 bersama antara kapolri dengan tni  tidak bisa misalnya di satu wilayah di situ ada kostrad  kemudian  Other
+1615 kodim memerintahkan kepada kostrad  tidak ada ketentuannya  kostrad punya tanggungjawab ke  Other
+1616 atas sesuai dengan hirarki komando  mungkin ini yang perlu dicermati oleh kita semua   Other
+1617 jadi satu aliran yang jauh  misalnya kalau di sini dikatakan ada status keadaan konflik  maka  Statement
+1618 tadi dikatakan sudah ada di dalam pp  di dalam ketentuan umumpun dicantumkan apa yang dimaksud  Other
+1619 dengan pengertian status dalam keadaan konflik  kaitannya dengan masalah pendanaan  disini dalam  Statement
+1620 setiap kegiatan bagaimana melakukan suatu langkah dengan di backup oleh masalah pendanaan tidak  Other
+1621 terlalu menggunakan mekanisme yang berbelit belit karena ini adalah dalam keadaan khusus  kalau  Other
+1622 dalam keadaan khusus  penggunaan dana untuk penanganan tersebut harus melalui mekanisme  Statement
+1623 sampai ketingkat pusat  maka konflik itu akan sudah jauh sekali bergerak  ini makanya di situ  Statement
+1624 dicantumkan ada anggaran yang digunakan oleh apbn dan ada juga yang dialokasikan oleh apbd   Other
+1625 mungkin apbd nanti melalui apa di atas atau segala macam  itu yang kita sampaikan dalam  Other
+1626 memperkuat yang disampaikan oleh rekan kami pak adang dan pak tri tamtomo   Other
+1627 terima kasih   Other
+1628 ketua rapat   Other
+1629  baik  pak yahya sacawirya memperkuat argumentasi dari pansus    Other
+1630 saya kira cukup ya  pak arif masih ada  pendek saja  yang terakhir pak dimyati  pendek pendek  Other
+1631 ya    Other
+1632 f pdip  dr  ir  arif budimanta  m sc     Statement
+1633  pendek  pimpinan    Other
+1634 terima kasih    Other
+1635 pasal 53 ayat  3  menyatakan peluang kepada masyarakat internasional untuk terlibat didalam  Statement
+1636 penanganan konflik  saya rasa penanganan konflik ini berbeda dengan persoalan penanggulangan  Statement
+1637 bencana  pimpinan  apakah dalam penanggulangan konflik ini tni dan polri sudah tidak mampu   Statement
+1638 sehingga kita harus membuka peluang untuk melibatkan masyarakat internasional seperti yang  Statement
+1639 tertuang di dalam pasal 53 ayat  3  ini  pimpinan  ini menurut kami sebuah keanehan  karena  Statement
+1640 menyamakan antara persoalan bencana tsunami misalnya di aceh  kemudian dengan persoalan  Other
+1641 konflik yang terkait dengan masalah kekerasan antar kelompok begitu  apakah kita memandang perlu  Statement
+1642 untuk mengundang masyarakat internasional dalam penanganan kekerasan antar kelompok  apakah  Statement
+1643 tni dan polri kita sudah tidak berdaulat  sudah tidak mampu lagi    Other
+1644 itu saja  pimpinan    Other
+1645 ketua rapat   Other
+1646  baik  jadi banyak yang penting kalau begini ya    Other
+1647 saya persilakan ini yang terakhir ini ya  ini saya memilih salah satu antara pak achmad yani dan  Other
+1648 pak dimyati yang sama sama ganteng  tapi salah satu saja  silakan  tidak boleh dua  jadi pak dimyati  Other
+1649 saja ya  silakan   Other
+1650 f ppp  achmad dimyati n   s h   m h   m si     Other
+1651  terima kasih  pimpinan   Other
+1652 tadi sudah saya katakan sekali lagi pasal 34  coba dilihat lagi disinkronkan dengan  Other
+1653 undang undang nomor 22  kebetulan saya tukang melakukan pengharmonisasian  pembulatan   Statement
+1654 pemantapan  coba dilihat undang undang nomor 32 tahun 1924 di dalam pasal 13 ayat  1  memang  Statement
+1655 huruf  g  dikatakan bahwa     pemerintah daerah memiliki kewenangan melakukan penanggulangan  Other
+1656 masalah sosial     oleh sebab itu bukan konflik sosial dalam arti keamanan  saya sekali lagi  Statement
+1657 mengingatkan bahwa tugas keamanan itu tidak diserahkan kepada pemerintah daerah  coba dibaca  Other
+1658 lagi di dalam pasal 34 ayat  1   di sana dikatakan berwenang dan bahasa berwenang berarti memiliki  Other
+1659 kewenangan  sekali lagi bisa diganti redaksional  ini dapat meminta  satu itu    Other
+1660  yang kedua  terkait dengan forum koordinasi pemerintah daerah  sekali lagi saya mengingatkan  Other
+1661 itu memang ada di dalam ketentuan lain  tetapi di dalam ketentuan umum itu tidak diterapkan apa itu  Other
+1662 forum koordinasi pemerintah daerah  besok lusa itu pp atau aturan aturan dari permendagri itu  Other
+1663 diubah  maka dengan sendirinya undang undang ini batal demi hukum  saya mengingatkan kalau  Statement
+1664 undang undang kita harus mengkaitkan lagi dengan undang undang lain  alangkah bijaknya  Statement
+1665 forum kordinasi pemerintah daerah ini didistorsi saja  diganti dengan yang jelas yaitu dprd atau  Other
+1666 dengan bantuan polri  cukup itu    Other
+1667 demikian  pimpinan    Other
+1668 terima kasih    Other
+1669 ketua rapat   Other
+1670 baik  saya sudah saatnya menyimpulkan untuk lobi sebenarnya  tapi terakhir saya persilakan  Statement
+1671 kepada pak teguh juwarno    Other
+1672 f pan  ir  h  teguh juwarno  m si     Statement
+1673  terima kasih  pimpinan    Other
+1674 ketua rapat   Other
+1675  pimpinan fraksi pan    Other
+1676 f pan  ir  h  teguh juwarno  m si     Statement
+1677 ini perdebatan yang mencerdaskan  jadi saya kira patut dihargai  meskipun harus kita berikan  Other
+1678 catatan karena di forum paripurna ini juga sekaligus membuka tabir borok kita  karena seyogyanya  Other
+1679 ketika kita bawa dalam paripurna ini kan sudah final  sudah tersosialisasi di internal masing masing  Other
+1680 fraksi  namun tentu kita tidak bisa menghilangkan hak konstitusi daripada anggota  untuk itu saya  Statement
+1681 mengusulkan untuk kita skors  skorsing  kita skors sejenak untuk kemudian dilakukan lobi  Statement
+1682 pembicaraan kususnya di tingkat pimpinan fraksi setelah terlebih dahulu masing masing fraksi dan  Statement
+1683 anggota diberikan kesempatan untuk membicarakan agar nanti menjadi penyikapan  apakah dengan  Statement
+1684 sisa waktu yang ada undang undang ini akan kita rapikan terlebih dahulu sebelum nanti disahkan atau  Statement
+1685 nanti fraksi akan memberikan penyikapan undang undang ini disetujui atau tidak   Statement
+1686 itu saja  ketua    Other
+1687 terima kasih   Other
+1688 ketua rapat   Other
+1689 cukup saya kira ya usulan simpatik dari pak teguh    Other
+1690 interupsi f pd  ignatius mulyono    Other
+1691  interupsi  pimpinan    Other
+1692 ketua rapat   Other
+1693 masih ada  karena ini ketua baleg  saya beri waktu  tapi setengah menit  pak mul  silahkan   Statement
+1694 f pd  ignatius mulyono    Other
+1695  terima kasih   Other
+1696 ketua rapat   Other
+1697  pak mul  setengah menit mawon nggih   Other
+1698 f pd  ignatius mulyono    Other
+1699 terima kasih  pimpinan   Other
+1700 saya sebagai ketua baleg mengikuti perkembangan diskusi yang terjadi memang tidak  Statement
+1701 mengharapkan pada proses paripurna masih terjadi diskusi yang cukup mendalam  tapi permasalahan  Other
+1702 yang kita hadapi saat ini memang merupakan undang undang yang sangat sensitif dan betul betul  Statement
+1703 harus kita dalami secara sempurna  oleh sebab itu kami menyarankan kalau hanya kita coba untuk  Statement
+1704 kita dekati dengan lobi  karena ini sangat substansial  kami kira tidak cukup  pak  oleh sebab itu  Other
+1705 barangkali kami mengusulkan diberikan kesempatan lagi kepada pansus untuk mencoba memperbaiki  Statement
+1706 kekurangan kekurangan yang mungkin dianggap ada  kita coba dan nanti akan kita ajukan lagi pada  Other
+1707 paripurna berikutnya  pak   Other
+1708 terima kasih   Other
+1709 ketua rapat    Other
+1710  baik  ignatius mulyono mayor  jenderal tni purnawirawan    Other
+1711 pandangannya sangat solutif  saudara sekalian  saya tadi sambil merenung renung di meja  Other
+1712 pimpinan  saya kira nanti kalaupun lobi fraksipun tetap saja  kan ada substansi ini  bagaimana kalau  Statement
+1713 saya tawarkan  kita beri waktu lagi kepada pansus  kita pasrah bongkokan  karena di sana ada fraksi fraksi  Other
+1714 dan teman teman yang tadi berbeda bisa menitipkan kepada anggota fraksi yang ada di pansus  Other
+1715 tersebut  nanti di paripurna terdekat tanggal 10 april kita pasrah bongkokan dengan semua catatan catatan  Other
+1716 tadi agar diperjuangkan untuk dinormalisasi atau disempurnakan dari semua pendapat pendapat tadi   Statement
+1717 dengan catatan apapun perdebatannya kita pasrahkan kepada pansus yang memang punya  Other
+1718 wewenang itu  apakah bisa disetujui   Other
+1719  rapat setuju   Other
+1720  jadi hari ini kita berikan kepercayaan pansus dengan mandat penuh untuk memperhatikan  Statement
+1721 semuanya dan paripurna depan kita putuskan akan kita ketok palu ruu tentang pks dengan  Other
+1722 semuanya    Other
+1723 segera saya akhiri persidangan ini    Other
+1724 terima kasih   Other
+1725 wabillaahittaufiq walhidayah   Other
+1726 wassalamu alaikum warahmatullahi wabarakaatuh   Other
+1727  rapat ditutup pukul 12 25 wib   Statement
+1728  jakarta  3 april 2012  Other
+1729 ketua rapat  Other
+1730 drs  h  priyo budi santoso  Statement
